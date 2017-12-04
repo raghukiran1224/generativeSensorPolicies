@@ -1,0 +1,6 @@
+
+lux(1115)=7.0
+brightness(385)=4.0
+display(389)=4.0
+automatically(86)=3.0
+make(125)=2.0

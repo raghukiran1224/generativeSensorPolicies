@@ -1,0 +1,6 @@
+
+account(119)=12.0
+view(269)=10.0
+discover(425)=8.0
+card(540)=6.0
+credit(668)=6.0

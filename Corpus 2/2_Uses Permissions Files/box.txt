@@ -1,0 +1,24 @@
+App Name: box.out
+Number of Permissions: 20
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.WRITE_EXTERNAL_STORAGE
+3. android.permission.ACCESS_NETWORK_STATE
+4. com.android.launcher.permission.INSTALL_SHORTCUT
+5. com.android.launcher.permission.UNINSTALL_SHORTCUT
+6. android.permission.READ_CONTACTS
+7. android.permission.USE_CREDENTIALS
+8. android.permission.GET_ACCOUNTS
+9. android.permission.MANAGE_ACCOUNTS
+10. android.permission.WAKE_LOCK
+11. com.google.android.c2dm.permission.RECEIVE
+12. android.permission.USE_FINGERPRINT
+13. android.permission.AUTHENTICATE_ACCOUNTS
+14. android.permission.READ_SYNC_STATS
+15. android.permission.READ_SYNC_SETTINGS
+16. android.permission.WRITE_SYNC_SETTINGS
+17. android.permission.VIBRATE
+18. android.permission.READ_EXTERNAL_STORAGE
+19. android.permission.RECEIVE_BOOT_COMPLETED
+20. com.box.android.permission.C2D_MESSAGE
+

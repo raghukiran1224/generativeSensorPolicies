@@ -1,0 +1,28 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Calendar
+read calendar events plus confidential information
+Contacts
+find accounts on the device
+read your contacts
+modify your contacts
+Location
+precise location (GPS and network-based)
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+read sync statistics
+receive data from Internet
+view network connections
+create accounts and set passwords
+full network access
+read sync settings
+control vibration
+prevent device from sleeping
+toggle sync on and off

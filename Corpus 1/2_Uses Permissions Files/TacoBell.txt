@@ -1,0 +1,20 @@
+TacoBell.txt
+Number of Permissions: 18
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_FINE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.VIBRATE
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.CAMERA
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+com.tacobell.ordering.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE

@@ -1,0 +1,9 @@
+Slither.txt
+Number of Permissions: 7
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.vending.BILLING
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.DISABLE_KEYGUARD

@@ -1,0 +1,6 @@
+
+videos(47)=5.0
+armorfly(64)=5.0
+browsing(71)=5.0
+download(45)=4.0
+private(59)=4.0

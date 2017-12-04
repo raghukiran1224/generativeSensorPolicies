@@ -1,0 +1,6 @@
+Number of Permissions: 5
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE

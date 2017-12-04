@@ -1,0 +1,6 @@
+
+screen(159)=4.0
+settings(320)=4.0
+app(29)=3.0
+brightness(385)=3.0
+default(545)=3.0

@@ -1,0 +1,17 @@
+Kroger.txt
+Number of Permissions: 15
+com.kroger.mobile.permission.C2D_MESSAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+android.permission.CAMERA
+android.permission.USE_FINGERPRINT
+android.permission.VIBRATE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.WRITE_EXTERNAL_STORAGE
+22
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_WIFI_STATE

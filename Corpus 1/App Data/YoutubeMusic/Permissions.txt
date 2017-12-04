@@ -1,0 +1,39 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts
+Location
+approximate location (network-based)
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+pair with Bluetooth devices
+access Bluetooth settings
+change network connectivity
+connect and disconnect from Wi-Fi
+full network access
+control Near Field Communication
+run at startup
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+read Google service configuration

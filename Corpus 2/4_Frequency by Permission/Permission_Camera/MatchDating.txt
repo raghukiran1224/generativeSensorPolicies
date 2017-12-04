@@ -1,0 +1,6 @@
+
+dating(462)=8.0
+singles(305)=6.0
+apps(410)=4.0
+match(464)=4.0
+single(741)=4.0

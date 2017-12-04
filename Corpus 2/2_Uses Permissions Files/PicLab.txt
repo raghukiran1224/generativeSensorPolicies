@@ -1,0 +1,10 @@
+App Name: PicLab
+Number of Permissions: 6
+Permissions List:
+1. android.permission.CAMERA
+2. android.permission.INTERNET
+3. com.android.vending.BILLING
+4. android.permission.ACCESS_NETWORK_STATE
+5. android.permission.READ_EXTERNAL_STORAGE
+6. android.permission.WRITE_EXTERNAL_STORAGE
+

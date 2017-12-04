@@ -1,0 +1,13 @@
+App Name: NIVBible
+Number of Permissions: 9
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.WAKE_LOCK
+4. android.permission.ACCESS_WIFI_STATE
+5. android.permission.WRITE_EXTERNAL_STORAGE
+6. android.permission.WRITE_SETTINGS
+7. android.permission.GET_ACCOUNTS
+8. com.google.android.c2dm.permission.RECEIVE
+9. com.bible.appfree.niv.permission.C2D_MESSAGE
+

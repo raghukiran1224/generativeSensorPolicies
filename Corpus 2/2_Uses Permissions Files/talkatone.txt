@@ -1,0 +1,33 @@
+App Name: talkatone.out
+Number of Permissions: 29
+Permissions List:
+1. com.android.vending.BILLING
+2. android.permission.RECORD_AUDIO
+3. android.permission.INTERNET
+4. android.permission.MODIFY_AUDIO_SETTINGS
+5. android.permission.ACCESS_WIFI_STATE
+6. android.permission.WRITE_SETTINGS
+7. android.permission.ACCESS_NETWORK_STATE
+8. android.permission.RECEIVE_BOOT_COMPLETED
+9. android.permission.READ_CONTACTS
+10. android.permission.WRITE_CONTACTS
+11. android.permission.ACCESS_FINE_LOCATION
+12. android.permission.ACCESS_COARSE_LOCATION
+13. android.permission.WAKE_LOCK
+14. android.permission.DISABLE_KEYGUARD
+15. android.permission.VIBRATE
+16. android.permission.BLUETOOTH
+17. android.permission.BROADCAST_STICKY
+18. android.permission.WRITE_EXTERNAL_STORAGE
+19. android.permission.RAISED_THREAD_PRIORITY
+20. android.permission.MANAGE_ACCOUNTS
+21. android.permission.AUTHENTICATE_ACCOUNTS
+22. android.permission.GET_ACCOUNTS
+23. android.permission.USE_CREDENTIALS
+24. android.permission.READ_SYNC_SETTINGS
+25. android.permission.WRITE_SYNC_SETTINGS
+26. android.permission.CAMERA
+27. android.permission.READ_EXTERNAL_STORAGE
+28. com.google.android.c2dm.permission.RECEIVE
+29. com.talkatone.android.gcm.permission.C2D_MESSAGE
+

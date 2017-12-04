@@ -1,0 +1,38 @@
+App Name: APUSBrowser
+Number of Permissions: 34
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.ACCESS_FINE_LOCATION
+4. android.permission.WAKE_LOCK
+5. android.permission.READ_EXTERNAL_STORAGE
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.READ_PHONE_STATE
+8. com.android.ContactWidget.permission.READ_SETTINGS
+9. com.android.browser.permission.READ_HISTORY_BOOKMARKS
+10. android.permission.SYSTEM_ALERT_WINDOW
+11. android.permission.RECEIVE_BOOT_COMPLETED
+12. com.android.launcher.permission.INSTALL_SHORTCUT
+13. android.permission.WRITE_SETTINGS
+14. com.google.android.c2dm.permission.RECEIVE
+15. android.permission.PACKAGE_USAGE_STATS
+16. 20
+17. android.permission.ACCESS_COARSE_LOCATION
+18. android.permission.CHANGE_NETWORK_STATE
+19. android.permission.ACCESS_WIFI_STATE
+20. android.permission.CHANGE_WIFI_STATE
+21. android.permission.BLUETOOTH
+22. com.apusapps.permission.ACCESS_DOWNLOAD_MANAGER
+23. com.apusapps.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED
+24. com.apusapps.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+25. android.permission.GET_ACCOUNTS
+26. com.apusapps.browser.permission.C2D_MESSAGE
+27. android.permission.PROCESS_OUTGOING_CALLS
+28. android.permission.READ_CONTACTS
+29. android.permission.READ_CALL_LOG
+30. android.permission.BLUETOOTH_ADMIN
+31. android.permission.GET_PACKAGE_SIZE
+32. android.permission.KILL_BACKGROUND_PROCESSES
+33. com.android.alarm.permission.SET_ALARM
+34. android.permission.VIBRATE
+

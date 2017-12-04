@@ -1,0 +1,6 @@
+
+free(26)=8.0
+talkray(1643)=7.0
+calls(1206)=5.0
+friends(209)=4.0
+supports(481)=3.0

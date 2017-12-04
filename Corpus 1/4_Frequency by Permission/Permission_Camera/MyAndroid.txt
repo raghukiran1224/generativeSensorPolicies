@@ -1,0 +1,6 @@
+
+phone(232)=5.0
+device(87)=3.0
+number(545)=3.0
+screen(805)=3.0
+android(86)=2.0

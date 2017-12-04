@@ -1,0 +1,14 @@
+Walmart.txt
+Number of Permissions: 12
+android.permission.ACCESS_FINE_LOCATION
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CAMERA
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.walmart.android.permission.UA_DATA
+com.walmart.android.permission.C2D_MESSAGE
+android.permission.ACCESS_COARSE_LOCATION

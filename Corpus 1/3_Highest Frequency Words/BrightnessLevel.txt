@@ -1,0 +1,5 @@
+
+easily(215)=1.0
+screen(805)=1.0
+widget(808)=1.0
+brightness(809)=1.0

@@ -1,0 +1,27 @@
+Wells Fargo.txt
+Number of Permissions: 25
+android.permission.READ_CONTACTS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WAKE_LOCK
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.google.android.c2dm.permission.RECEIVE
+android.permission.VIBRATE
+android.permission.READ_PHONE_STATE
+android.permission.CALL_PHONE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.NFC
+android.permission.USE_FINGERPRINT
+com.wf.wellsfargomobile.permission.REPLENISHMENT_CHECK_SERVICE_PERMISSION
+com.wf.wellsfargomobile.permission.HCE_WALLET_REPLENISH_SERVICE_PERMISSION
+com.wf.wellsfargomobile.permission.WALLET_INTENT_SERVICE_PERMISSION
+com.wf.wellsfargomobile.permission.C2D_MESSAGE
+com.wf.wellsfargomobile.permission.OFFER_DOWNLOAD_SERVICE_PERMISSION
+com.wf.wellsfargomobile.permission.DOWNLOADMANAGER_PERMISSION
+com.wf.wellsfargomobile.permission.SEND_AND_FORGET_SERVICE_PERMISSION
+com.wf.wellsfargomobile.permission.SEND_AND_TELL_DONE_SERVICE_PERMISSION
+com.wf.wellsfargomobile.permission.FRONT_PORCH_DOWNLOAD_SERVICE_PERMISSION
+com.wf.wellsfargomobile.permission.LOGIN_SERVICE_PERMISSION

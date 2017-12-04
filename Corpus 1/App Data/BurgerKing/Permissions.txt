@@ -1,0 +1,31 @@
+Version 3.7.1 can access:
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+access extra location provider commands
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+receive data from Internet
+view network connections
+read battery statistics
+pair with Bluetooth devices
+access Bluetooth settings
+full network access
+run at startup
+control vibration
+prevent device from sleeping

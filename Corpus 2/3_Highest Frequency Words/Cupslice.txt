@@ -1,0 +1,6 @@
+
+cupslice(488)=5.0
+photo(513)=3.0
+filters(526)=3.0
+app(231)=2.0
+trending(242)=2.0

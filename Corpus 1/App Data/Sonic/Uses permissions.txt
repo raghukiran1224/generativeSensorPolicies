@@ -1,0 +1,15 @@
+Sonic.txt
+Number of Permissions: 13
+android.permission.CALL_PHONE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.sonic.sonicdrivein.permission.C2D_MESSAGE

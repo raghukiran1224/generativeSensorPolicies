@@ -1,0 +1,6 @@
+
+sound(1844)=7.0
+noise(1969)=6.0
+white(148)=4.0
+storage(247)=3.0
+external(342)=3.0

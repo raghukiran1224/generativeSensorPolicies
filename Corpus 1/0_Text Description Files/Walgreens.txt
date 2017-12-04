@@ -1,0 +1,24 @@
+Refill prescriptions, print photos, clip coupons, and more!
+
+Pharmacy & Health
+From refill to pickup and beyond, the app makes prescriptions so easy. Refill prescriptions in seconds by scanning your barcode, and then set Rx Alerts to let you know when your prescription is ready for pickup. You can also set Pill Reminders* to help you manage your medications. Next time you’re feeling under the weather, skip the waiting room with a video chat via Live Doctor Consultation**. 
+
+Photo
+Getting creative is simple with the app. Print photos straight from your device, Facebook, Instagram and more. You can also create personalized folded photo cards, and customize décor items including canvas prints and magnets. Plus, enjoy Same Day Pickup on tons of great photo products!
+
+Savings & Rewards
+Use the app to save anytime, anywhere. Browse the Weekly Ad and clip coupons straight to your Balance® Rewards account for instant savings at checkout. You can also track your Balance® Rewards points***, and even earn Balance Rewards for healthy choices® when you track steps, weigh-ins and more. 
+
+Shopping
+The app makes shopping at Walgreens even more convenient. Browse products 24/7 in the app and shop on your own schedule. You can also find your nearest Walgreens with Store Locator, and once you’re here, use the app in store to save while you shop.
+
+Permissions Explained
+- Location: Find nearby stores and enable In-Store Savings 
+- Storage: Access photos stored on your device that you want to print or share
+- Camera: Take photos and to use features that require scanning
+- Flashlight: Enhance the lighting in scanning features
+- Control vibration: Indicate that a scan is complete 
+- Microphone: Speak to a doctor in Live Doctor Consultation 
+- Prevent phone from sleeping: Keep screen from dimming during a Live Doctor Consultation
+- Change audio settings: Control the volume during a Live Doctor Consultation
+- Bluetooth: See relevant deals, get quick access to your Balance Rewards card and more

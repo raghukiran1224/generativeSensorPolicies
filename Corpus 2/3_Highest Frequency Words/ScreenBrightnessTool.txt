@@ -1,0 +1,6 @@
+
+brightness(438)=8.0
+adjust(1571)=6.0
+screen(269)=4.0
+lower(442)=4.0
+night(144)=2.0

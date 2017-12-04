@@ -1,0 +1,6 @@
+
+clean(500)=12.0
+fastest(347)=8.0
+phone(104)=7.0
+speed(193)=7.0
+memory(913)=7.0

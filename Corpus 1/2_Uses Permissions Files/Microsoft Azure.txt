@@ -1,0 +1,27 @@
+Microsoft Azure.txt
+Number of Permissions: 25
+android.permission.VIBRATE
+18
+android.permission.USE_FINGERPRINT
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.azure.authenticator.permission.C2D_MESSAGE
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.GET_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.MANAGE_ACCOUNTS
+android.permission.sec.ENTERPRISE_DEVICE_ADMIN
+android.permission.sec.MDM_SECURITY
+android.permission.sec.MDM_CERTIFICATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.READ_SYNC_STATS
+android.permission.CAMERA
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.READ_PROFILE
+android.permission.RECEIVE_SMS

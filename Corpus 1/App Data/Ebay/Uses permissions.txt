@@ -1,0 +1,19 @@
+Ebay.txt
+Number of Permissions: 17
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.VIBRATE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.NFC
+android.permission.ACCESS_FINE_LOCATION
+com.ebay.mobile.permission.C2D_MESSAGE
+com.ebay.mobile.permission.EBAY_USER_CONFIG
+com.ebay.mobile.permission.MAPS_RECEIVE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.sec.android.provider.badge.permission.READ
+com.sec.android.provider.badge.permission.WRITE
+android.permission.READ_EXTERNAL_STORAGE

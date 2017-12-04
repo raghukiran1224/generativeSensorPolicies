@@ -1,0 +1,6 @@
+
+images(180)=3.0
+photos(183)=3.0
+social(105)=2.0
+share(141)=2.0
+colors(148)=2.0

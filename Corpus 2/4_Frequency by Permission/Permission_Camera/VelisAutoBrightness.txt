@@ -1,0 +1,6 @@
+
+brightness(385)=6.0
+auto(382)=2.0
+sensors(1628)=2.0
+devices(40)=1.0
+experience(72)=1.0

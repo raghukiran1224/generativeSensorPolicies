@@ -1,0 +1,11 @@
+Subway.txt
+Number of Permissions: 9
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_NETWORK_STATE
+com.subway.mobile.subwayapp03.permission.C2D_MESSAGE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.subway.mobile.subwayapp03.permission.C2D_MESSAGE

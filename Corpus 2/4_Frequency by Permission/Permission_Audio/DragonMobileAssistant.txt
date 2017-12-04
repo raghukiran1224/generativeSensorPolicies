@@ -1,0 +1,6 @@
+
+text(130)=3.0
+voice(441)=2.0
+nuance(628)=2.0
+appointments(641)=2.0
+attentive(647)=2.0

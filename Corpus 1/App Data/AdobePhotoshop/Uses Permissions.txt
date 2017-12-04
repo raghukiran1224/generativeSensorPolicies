@@ -1,0 +1,10 @@
+Number of Permissions: 9
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.GET_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS

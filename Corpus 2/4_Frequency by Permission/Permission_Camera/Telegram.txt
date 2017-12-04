@@ -1,0 +1,6 @@
+
+telegram(1757)=9.0
+messaging(554)=4.0
+chats(1218)=4.0
+messages(1230)=4.0
+free(26)=3.0

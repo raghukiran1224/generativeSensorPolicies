@@ -1,0 +1,6 @@
+
+adobe(120)=4.0
+image(205)=2.0
+retouching(227)=2.0
+restoration(228)=2.0
+creative(244)=2.0

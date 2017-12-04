@@ -1,0 +1,19 @@
+App Name: bibleoffline.out
+Number of Permissions: 15
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. com.android.vending.BILLING
+4. android.permission.WRITE_EXTERNAL_STORAGE
+5. android.permission.READ_EXTERNAL_STORAGE
+6. android.permission.WAKE_LOCK
+7. android.permission.VIBRATE
+8. android.permission.RECEIVE_BOOT_COMPLETED
+9. android.permission.GET_ACCOUNTS
+10. com.google.android.c2dm.permission.RECEIVE
+11. com.bestweatherfor.bibleoffline_pt_ra.permission.C2D_MESSAGE
+12. com.google.android.providers.gsf.permission.READ_GSERVICES
+13. com.google.android.permission.PROVIDE_BACKGROUND
+14. android.permission.ACCESS_COARSE_LOCATION
+15. android.permission.ACCESS_FINE_LOCATION
+

@@ -1,0 +1,36 @@
+App Name: Musically
+Number of Permissions: 32
+Permissions List:
+1. android.permission.CAMERA
+2. android.permission.RECORD_AUDIO
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.ACCESS_WIFI_STATE
+5. android.permission.INTERNET
+6. android.permission.WAKE_LOCK
+7. android.permission.READ_PHONE_STATE
+8. android.permission.RECEIVE_SMS
+9. android.permission.PROCESS_OUTGOING_CALLS
+10. android.permission.RECEIVE_BOOT_COMPLETED
+11. android.permission.WRITE_SETTINGS
+12. android.permission.VIBRATE
+13. android.permission.DISABLE_KEYGUARD
+14. com.google.android.providers.gsf.permission.READ_GSERVICES
+15. android.permission.KILL_BACKGROUND_PROCESSES
+16. com.android.vending.BILLING
+17. android.permission.READ_CONTACTS
+18. android.permission.FLASHLIGHT
+19. android.permission.GET_TASKS
+20. android.permission.CHANGE_WIFI_STATE
+21. android.permission.MANAGE_ACCOUNTS
+22. android.permission.GET_ACCOUNTS
+23. android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+24. android.permission.WRITE_EXTERNAL_STORAGE
+25. com.google.android.c2dm.permission.RECEIVE
+26. com.zhiliaoapp.musically.permission.C2D_MESSAGE
+27. android.permission.READ_PHONE_STATE
+28. android.permission.MODIFY_AUDIO_SETTINGS
+29. android.permission.BLUETOOTH
+30. android.permission.BROADCAST_STICKY
+31. com.zhiliaoapp.musically.permission.C2D_MESSAGE
+32. android.permission.AUTHENTICATE_ACCOUNTS
+

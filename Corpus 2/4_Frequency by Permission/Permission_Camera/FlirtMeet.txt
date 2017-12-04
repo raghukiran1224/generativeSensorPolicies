@@ -1,0 +1,6 @@
+
+dating(462)=5.0
+free(219)=3.0
+app(231)=3.0
+platform(407)=2.0
+discreet(704)=2.0

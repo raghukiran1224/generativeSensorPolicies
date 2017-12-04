@@ -1,0 +1,6 @@
+
+commands(655)=9.0
+voice(52)=7.0
+cortana(656)=5.0
+command(663)=3.0
+quickly(37)=2.0

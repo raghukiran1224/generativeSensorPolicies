@@ -1,0 +1,16 @@
+App Name: OneSync
+Number of Permissions: 12
+Permissions List:
+1. com.ttxapps.onesync.LICENSE_STATUS
+2. android.permission.RECEIVE_BOOT_COMPLETED
+3. android.permission.INTERNET
+4. android.permission.ACCESS_NETWORK_STATE
+5. android.permission.ACCESS_WIFI_STATE
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.READ_EXTERNAL_STORAGE
+8. android.permission.WAKE_LOCK
+9. com.android.vending.BILLING
+10. com.google.android.c2dm.permission.RECEIVE
+11. com.ttxapps.onesyncv2.permission.C2D_MESSAGE
+12. com.sony.mobile.permission.SYSTEM_UI_VISIBILITY_EXTENSION
+

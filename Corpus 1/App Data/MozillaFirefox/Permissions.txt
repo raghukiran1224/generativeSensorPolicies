@@ -1,0 +1,41 @@
+This app has access to:
+Device & app history
+read your Web bookmarks and history
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Location
+precise location (GPS and network-based)
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+download files without notification
+read sync statistics
+receive data from Internet
+view network connections
+create accounts and set passwords
+connect and disconnect from Wi-Fi
+full network access
+control Near Field Communication
+read sync settings
+run at startup
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+install shortcuts
+uninstall shortcuts

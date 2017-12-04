@@ -1,0 +1,6 @@
+
+filters(526)=8.0
+photo(513)=7.0
+magazine(1056)=7.0
+camera(1061)=7.0
+collage(1055)=6.0

@@ -1,0 +1,14 @@
+App Name: BlueLightFilter
+Number of Permissions: 10
+Permissions List:
+1. android.permission.RECEIVE_BOOT_COMPLETED
+2. android.permission.SYSTEM_ALERT_WINDOW
+3. com.android.vending.BILLING
+4. android.permission.INTERNET
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.VIBRATE
+7. android.permission.WAKE_LOCK
+8. android.permission.CAMERA
+9. android.permission.FLASHLIGHT
+10. android.permission.HARDWARE_TEST
+

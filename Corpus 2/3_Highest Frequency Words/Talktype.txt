@@ -1,0 +1,6 @@
+
+voice(52)=14.0
+talktype(1668)=9.0
+keyboard(1670)=6.0
+word(16)=5.0
+input(1675)=5.0

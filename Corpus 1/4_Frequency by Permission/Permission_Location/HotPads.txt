@@ -1,0 +1,6 @@
+
+rentals(444)=3.0
+apartment(2162)=2.0
+hotpads(2165)=2.0
+apartments(2166)=2.0
+collection(28)=1.0

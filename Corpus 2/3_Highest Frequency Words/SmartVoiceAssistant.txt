@@ -1,0 +1,6 @@
+
+app(29)=5.0
+voice(441)=2.0
+call(22)=1.0
+control(39)=1.0
+download(45)=1.0

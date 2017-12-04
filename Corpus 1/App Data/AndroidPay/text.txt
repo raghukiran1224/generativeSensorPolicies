@@ -1,0 +1,3 @@
+se Android Pay by adding a card from any participating bank (see below).
+• Keep your information safe. With Android Pay, your actual card number is never shared. Instead, a virtual account number is used so that your card details are always kept safe.
+• Android Pay is available on all non-rooted Android devices (KitKat 4.4+).

@@ -1,0 +1,28 @@
+This app has access to:
+Identity
+find accounts on the device
+read your own contact card
+Contacts
+find accounts on the device
+read your contacts
+SMS
+receive text messages (SMS)
+Phone
+read call log
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+receive data from Internet
+view network connections
+allow Wi-Fi Multicast reception
+full network access
+control vibration

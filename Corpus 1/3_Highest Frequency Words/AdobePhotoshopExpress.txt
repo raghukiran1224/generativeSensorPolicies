@@ -1,0 +1,6 @@
+
+photo(190)=2.0
+pictures(203)=2.0
+edit(140)=1.0
+share(141)=1.0
+filters(149)=1.0

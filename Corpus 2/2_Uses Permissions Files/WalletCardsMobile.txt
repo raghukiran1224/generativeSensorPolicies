@@ -1,0 +1,34 @@
+App Name: WalletCardsMobile
+Number of Permissions: 30
+Permissions List:
+1. android.permission.ACCESS_FINE_LOCATION
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.AUTHENTICATE_ACCOUNTS
+4. android.permission.BLUETOOTH
+5. android.permission.CAMERA
+6. android.permission.GET_ACCOUNTS
+7. android.permission.INTERNET
+8. com.android.launcher.permission.INSTALL_SHORTCUT
+9. android.permission.NFC
+10. android.permission.READ_SMS
+11. android.permission.RECEIVE_SMS
+12. android.permission.VIBRATE
+13. android.permission.READ_EXTERNAL_STORAGE
+14. android.permission.READ_INTERNAL_STORAGE
+15. android.permission.READ_PHONE_STATE
+16. android.permission.READ_SYNC_STATS
+17. android.permission.WAKE_LOCK
+18. android.permission.WRITE_SETTINGS
+19. android.permission.WRITE_EXTERNAL_STORAGE
+20. android.permission.WRITE_SYNC_SETTINGS
+21. android.permission.USE_FINGERPRINT
+22. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+23. org.simalliance.openmobileapi.SMARTCARD
+24. ru.cardsmobile.mw3.permission.C2D_MESSAGE
+25. com.google.android.c2dm.permission.RECEIVE
+26. com.samsung.android.providers.hostActivity.permission.WRITE_USE_APP_FEATURE_SURVEY
+27. com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+28. com.yotadevices.framework.permission.ACCESS_BACKSCREEN
+29. android.permission.BLUETOOTH_ADMIN
+30. android.permission.ACCESS_COARSE_LOCATION
+

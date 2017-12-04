@@ -1,0 +1,6 @@
+
+calendar(457)=5.0
+time(60)=3.0
+events(75)=3.0
+view(269)=3.0
+phone(232)=2.0

@@ -1,0 +1,39 @@
+App Name: talkray.out
+Number of Permissions: 35
+Permissions List:
+1. com.talkray.client.permission.MAPS_RECEIVE
+2. android.permission.GET_ACCOUNTS
+3. android.permission.AUTHENTICATE_ACCOUNTS
+4. android.permission.MANAGE_ACCOUNTS
+5. android.permission.READ_PROFILE
+6. android.permission.READ_SMS
+7. android.permission.RECEIVE_SMS
+8. android.permission.READ_CONTACTS
+9. android.permission.WRITE_CONTACTS
+10. android.permission.READ_SYNC_SETTINGS
+11. android.permission.WRITE_SYNC_SETTINGS
+12. android.permission.RECORD_AUDIO
+13. android.permission.RECEIVE_BOOT_COMPLETED
+14. android.permission.WAKE_LOCK
+15. android.permission.DISABLE_KEYGUARD
+16. android.permission.ACCESS_NETWORK_STATE
+17. android.permission.READ_PHONE_STATE
+18. android.permission.VIBRATE
+19. android.permission.MODIFY_AUDIO_SETTINGS
+20. android.permission.WRITE_EXTERNAL_STORAGE
+21. android.permission.INTERNET
+22. android.permission.BLUETOOTH
+23. android.permission.BROADCAST_STICKY
+24. com.android.launcher.permission.INSTALL_SHORTCUT
+25. android.permission.SEND_SMS
+26. android.permission.ACCESS_COARSE_LOCATION
+27. android.permission.ACCESS_FINE_LOCATION
+28. com.google.android.providers.gsf.permission.READ_GSERVICES
+29. android.permission.CAMERA
+30. com.sec.android.provider.badge.permission.READ
+31. com.sec.android.provider.badge.permission.WRITE
+32. android.permission.READ_CALL_LOG
+33. android.permission.CALL_PHONE
+34. com.google.android.c2dm.permission.RECEIVE
+35. com.talkray.client.permission.C2D_MESSAGE
+

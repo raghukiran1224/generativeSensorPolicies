@@ -1,0 +1,23 @@
+YouCamMakeup.txt
+Number of Permissions: 21
+com.android.vending.BILLING
+android.permission.GET_TASKS
+android.permission.CAMERA
+android.permission.RECORD_AUDIO
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_PHONE_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.cyberlink.youcammakeup.permission.C2D_MESSAGE
+android.permission.GET_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS

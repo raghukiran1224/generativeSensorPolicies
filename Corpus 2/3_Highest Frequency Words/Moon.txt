@@ -1,0 +1,6 @@
+
+support(35)=9.0
+screen(121)=6.0
+page(34)=4.0
+mode(87)=4.0
+options(370)=4.0

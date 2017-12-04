@@ -1,0 +1,14 @@
+App Name: MXVideoTube
+Number of Permissions: 10
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.GET_ACCOUNTS
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.READ_EXTERNAL_STORAGE
+5. android.permission.WRITE_EXTERNAL_STORAGE
+6. android.permission.READ_PHONE_STATE
+7. com.android.vending.BILLING
+8. android.permission.WAKE_LOCK
+9. com.google.android.c2dm.permission.RECEIVE
+10. com.apppools.mxplayervideotube.permission.C2D_MESSAGE
+

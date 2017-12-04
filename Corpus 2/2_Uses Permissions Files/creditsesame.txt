@@ -1,0 +1,18 @@
+App Name: creditsesame.out
+Number of Permissions: 14
+Permissions List:
+1. com.creditsesame.permission.C2D_MESSAGE
+2. android.permission.ACCESS_FINE_LOCATION
+3. android.permission.INTERNET
+4. android.permission.ACCESS_WIFI_STATE
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.READ_EXTERNAL_STORAGE
+8. android.permission.READ_PHONE_STATE
+9. com.android.vending.BILLING
+10. android.permission.USE_FINGERPRINT
+11. android.permission.GET_TASKS
+12. com.google.android.c2dm.permission.RECEIVE
+13. android.permission.GET_ACCOUNTS
+14. android.permission.WAKE_LOCK
+

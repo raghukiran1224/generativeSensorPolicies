@@ -1,0 +1,6 @@
+
+web(326)=6.0
+browser(327)=5.0
+mobile(486)=5.0
+features(56)=4.0
+easy(386)=3.0

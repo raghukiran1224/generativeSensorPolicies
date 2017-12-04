@@ -1,0 +1,41 @@
+App Name: Alice
+Number of Permissions: 37
+Permissions List:
+1. android.permission.RECORD_AUDIO
+2. android.permission.INTERNET
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.READ_CONTACTS
+5. android.permission.CALL_PHONE
+6. android.permission.READ_CALL_LOG
+7. android.permission.RECEIVE_SMS
+8. android.permission.SEND_SMS
+9. android.permission.WRITE_SMS
+10. android.permission.READ_SMS
+11. android.permission.READ_PHONE_STATE
+12. android.permission.ACCESS_FINE_LOCATION
+13. android.permission.CHANGE_NETWORK_STATE
+14. android.permission.ACCESS_WIFI_STATE
+15. android.permission.CHANGE_WIFI_STATE
+16. com.android.alarm.permission.SET_ALARM
+17. android.permission.CAMERA
+18. android.permission.FLASHLIGHT
+19. android.permission.MODIFY_AUDIO_SETTINGS
+20. android.permission.BROADCAST_STICKY
+21. android.permission.BLUETOOTH
+22. android.permission.BLUETOOTH_ADMIN
+23. android.permission.WRITE_EXTERNAL_STORAGE
+24. android.permission.WRITE_SETTINGS
+25. android.permission.DISABLE_KEYGUARD
+26. android.permission.WAKE_LOCK
+27. android.permission.WRITE_CALENDAR
+28. android.permission.READ_CALENDAR
+29. com.google.android.c2dm.permission.RECEIVE
+30. android.permission.INTERNET
+31. android.permission.GET_ACCOUNTS
+32. android.permission.USE_CREDENTIALS
+33. android.permission.READ_OWNER_DATA
+34. android.permission.VIBRATE
+35. android.permission.GET_TASKS
+36. android.permission.RECEIVE_BOOT_COMPLETED
+37. yourapp24.android.tools.alice_lite.permission.C2D_MESSAGE
+

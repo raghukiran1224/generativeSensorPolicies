@@ -1,0 +1,26 @@
+App Name: bravebrowser.out
+Number of Permissions: 22
+Permissions List:
+1. android.permission.ACCESS_COARSE_LOCATION
+2. android.permission.ACCESS_FINE_LOCATION
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.CAMERA
+5. android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+6. android.permission.INTERNET
+7. android.permission.MODIFY_AUDIO_SETTINGS
+8. android.permission.NFC
+9. android.permission.READ_EXTERNAL_STORAGE
+10. android.permission.RECEIVE_BOOT_COMPLETED
+11. android.permission.RECORD_AUDIO
+12. android.permission.VIBRATE
+13. android.permission.WAKE_LOCK
+14. android.permission.WRITE_EXTERNAL_STORAGE
+15. com.brave.browser.permission.C2D_MESSAGE
+16. com.brave.browser.permission.READ_WRITE_BOOKMARK_FOLDERS
+17. com.brave.browser.TOS_ACKED
+18. com.chrome.permission.DEVICE_EXTRAS
+19. com.android.browser.permission.READ_HISTORY_BOOKMARKS
+20. com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+21. com.google.android.c2dm.permission.RECEIVE
+22. com.android.launcher.permission.INSTALL_SHORTCUT
+

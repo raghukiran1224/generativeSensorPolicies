@@ -1,0 +1,17 @@
+App Name: hoteltonight.out
+Number of Permissions: 13
+Permissions List:
+1. android.permission.ACCESS_FINE_LOCATION
+2. android.permission.ACCESS_COARSE_LOCATION
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.RECEIVE_BOOT_COMPLETED
+5. 22
+6. com.google.android.providers.gsf.permission.READ_GSERVICES
+7. com.hoteltonight.android.prod.permission.MAPS_RECEIVE
+8. android.permission.GET_ACCOUNTS
+9. android.permission.WAKE_LOCK
+10. android.permission.INTERNET
+11. android.permission.CAMERA
+12. com.hoteltonight.android.prod.permission.C2D_MESSAGE
+13. com.google.android.c2dm.permission.RECEIVE
+

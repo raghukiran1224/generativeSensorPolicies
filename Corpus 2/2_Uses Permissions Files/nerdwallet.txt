@@ -1,0 +1,14 @@
+App Name: nerdwallet.out
+Number of Permissions: 10
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.READ_LOGS
+4. android.permission.WAKE_LOCK
+5. android.permission.VIBRATE
+6. com.mobilecreditcards.permission.UA_DATA
+7. com.google.android.c2dm.permission.RECEIVE
+8. com.mobilecreditcards.permission.C2D_MESSAGE
+9. com.amazon.device.messaging.permission.RECEIVE
+10. com.mobilecreditcards.permission.RECEIVE_ADM_MESSAGE
+

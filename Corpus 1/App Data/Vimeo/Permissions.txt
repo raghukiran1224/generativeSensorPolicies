@@ -1,0 +1,23 @@
+This app has access to:
+Device & app history
+retrieve running apps
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+allow Wi-Fi Multicast reception
+connect and disconnect from Wi-Fi
+full network access
+run at startup
+draw over other apps
+control vibration
+prevent device from sleeping

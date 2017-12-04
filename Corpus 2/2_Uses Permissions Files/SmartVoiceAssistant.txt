@@ -1,0 +1,30 @@
+App Name: SmartVoiceAssistant
+Number of Permissions: 26
+Permissions List:
+1. android.permission.RECORD_AUDIO
+2. android.permission.INTERNET
+3. android.permission.READ_CONTACTS
+4. android.permission.SEND_SMS
+5. android.permission.RECEIVE_SMS
+6. android.permission.READ_SMS
+7. android.permission.WRITE_SMS
+8. android.permission.CALL_PHONE
+9. android.permission.READ_PHONE_STATE
+10. android.permission.MODIFY_AUDIO_SETTINGS
+11. android.permission.DISABLE_KEYGUARD
+12. android.permission.WAKE_LOCK
+13. android.permission.ACCESS_NETWORK_STATE
+14. android.permission.WRITE_EXTERNAL_STORAGE
+15. android.permission.READ_EXTERNAL_STORAGE
+16. android.permission.BLUETOOTH
+17. android.permission.BROADCAST_STICKY
+18. android.permission.RECEIVE_BOOT_COMPLETED
+19. android.permission.ACCESS_WIFI_STATE
+20. android.permission.CHANGE_WIFI_STATE
+21. android.permission.BLUETOOTH_ADMIN
+22. android.permission.CHANGE_NETWORK_STATE
+23. com.android.vending.CHECK_LICENSE
+24. sva.permission.READ_CONTACTS
+25. sva.permission.READ_ACTIONS
+26. sva.permission.READ_DATABASE
+

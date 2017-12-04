@@ -1,0 +1,26 @@
+GroupMe.txt
+Number of Permissions: 24
+com.groupme.android.permission.C2D_MESSAGE
+com.groupme.android.permission.CONTENT_PROVIDER
+android.permission.UPDATE_APP_OPS_STATS
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.GET_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_SYNC_SETTINGS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+android.permission.MANAGE_DOCUMENTS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.VIBRATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.android.vending.BILLING

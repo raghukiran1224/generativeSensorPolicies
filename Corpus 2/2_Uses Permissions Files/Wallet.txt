@@ -1,0 +1,16 @@
+App Name: Wallet
+Number of Permissions: 12
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.ACCESS_COARSE_LOCATION
+4. android.permission.PROCESS_OUTGOING_CALLS
+5. android.permission.CALL_PHONE
+6. android.permission.READ_PHONE_STATE
+7. android.permission.RECEIVE_BOOT_COMPLETED
+8. android.permission.READ_CONTACTS
+9. android.permission.READ_CALL_LOG
+10. android.permission.WRITE_CONTACTS
+11. android.permission.SYSTEM_ALERT_WINDOW
+12. android.permission.BATTERY_STATS
+

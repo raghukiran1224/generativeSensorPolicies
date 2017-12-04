@@ -1,0 +1,20 @@
+Version 2.3.4 can access:
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+full network access
+control Near Field Communication
+control vibration
+prevent device from sleeping

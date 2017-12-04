@@ -1,0 +1,13 @@
+Version 7.0.0.1 can access:
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Phone
+read phone status and identity
+Device ID & call information
+read phone status and identity
+Other
+receive data from Internet
+view network connections
+full network access
+prevent device from sleeping

@@ -1,0 +1,22 @@
+Yahoo Weather.txt
+Number of Permissions: 20
+com.yahoo.mobile.client.android.weather.permission.MAPS_RECEIVE
+com.yahoo.mobile.client.android.weather.permission.C2D_MESSAGE
+com.yahoo.snp.android.permission.ACCESS_PUSHAGENT
+com.google.android.c2dm.permission.RECEIVE
+18
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.INTERNET
+android.permission.RECEIVE_BOOT_COMPLETED
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.yahoo.mobile.client.android.permissions.YAHOO_INTER_APP
+android.permission.VIBRATE
+22
+22
+22
+22
+com.yahoo.mobile.client.android.weather.permission.RECEIVE_ADM_MESSAGE
+com.amazon.device.messaging.permission.RECEIVE
+android.permission.WAKE_LOCK

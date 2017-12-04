@@ -1,0 +1,9 @@
+Yahoo View.txt
+Number of Permissions: 7
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.yahoo.view.permission.C2D_MESSAGE
+18

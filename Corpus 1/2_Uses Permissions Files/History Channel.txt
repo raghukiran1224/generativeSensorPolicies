@@ -1,0 +1,13 @@
+History Channel.txt
+Number of Permissions: 11
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.VIBRATE
+com.aetn.history.watch.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_WIFI_STATE
+android.permission.NFC

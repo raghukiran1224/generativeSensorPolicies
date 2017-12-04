@@ -1,0 +1,16 @@
+App Name: PhotoLabPictureEditor
+Number of Permissions: 12
+Permissions List:
+1. com.android.vending.BILLING
+2. android.permission.READ_EXTERNAL_STORAGE
+3. android.permission.WRITE_EXTERNAL_STORAGE
+4. android.permission.INTERNET
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.READ_SYNC_SETTINGS
+7. android.permission.WRITE_SYNC_SETTINGS
+8. android.permission.AUTHENTICATE_ACCOUNTS
+9. android.permission.GET_ACCOUNTS
+10. android.permission.WAKE_LOCK
+11. com.google.android.c2dm.permission.RECEIVE
+12. vsin.t16_funny_photo.permission.C2D_MESSAGE
+

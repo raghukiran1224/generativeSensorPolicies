@@ -1,0 +1,6 @@
+
+languages(346)=6.0
+translate(1108)=4.0
+text(292)=3.0
+camera(299)=3.0
+translation(1963)=3.0

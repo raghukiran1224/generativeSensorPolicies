@@ -1,0 +1,17 @@
+Version 7.5.0 can access:
+In-app purchases
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+receive data from Internet
+view network connections
+full network access
+prevent device from sleeping

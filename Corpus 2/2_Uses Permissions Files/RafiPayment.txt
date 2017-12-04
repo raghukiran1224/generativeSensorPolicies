@@ -1,0 +1,27 @@
+App Name: RafiPayment
+Number of Permissions: 23
+Permissions List:
+1. android.permission.ACCESS_COARSE_LOCATION
+2. android.permission.ACCESS_FINE_LOCATION
+3. android.permission.VIBRATE
+4. android.permission.INTERNET
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.WAKE_LOCK
+7. com.google.android.c2dm.permission.RECEIVE
+8. com.rafi.payment.permission.C2D_MESSAGE
+9. com.rafi.payment.permission.PushHandlerActivity
+10. com.sec.android.provider.badge.permission.READ
+11. com.sec.android.provider.badge.permission.WRITE
+12. com.htc.launcher.permission.READ_SETTINGS
+13. com.htc.launcher.permission.UPDATE_SHORTCUT
+14. com.sonyericsson.home.permission.BROADCAST_BADGE
+15. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+16. com.anddoes.launcher.permission.UPDATE_COUNT
+17. com.majeur.launcher.permission.UPDATE_BADGE
+18. com.huawei.android.launcher.permission.CHANGE_BADGE
+19. com.huawei.android.launcher.permission.READ_SETTINGS
+20. com.huawei.android.launcher.permission.WRITE_SETTINGS
+21. android.permission.READ_APP_BADGE
+22. com.oppo.launcher.permission.READ_SETTINGS
+23. com.oppo.launcher.permission.WRITE_SETTINGS
+

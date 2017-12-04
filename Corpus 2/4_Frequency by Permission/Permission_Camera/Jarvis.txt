@@ -1,0 +1,6 @@
+
+jarvis(1042)=15.0
+phone(145)=7.0
+play(148)=5.0
+control(39)=4.0
+support(311)=4.0

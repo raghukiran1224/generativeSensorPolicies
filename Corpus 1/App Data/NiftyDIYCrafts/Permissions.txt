@@ -1,0 +1,6 @@
+Version 1.1.5 can access:
+Other
+receive data from Internet
+view network connections
+full network access
+prevent device from sleeping

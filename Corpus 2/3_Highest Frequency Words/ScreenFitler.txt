@@ -1,0 +1,6 @@
+
+brightness(385)=6.0
+low(551)=2.0
+disable(1201)=2.0
+app(29)=1.0
+control(39)=1.0

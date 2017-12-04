@@ -1,0 +1,14 @@
+Buzzfeed Video.txt
+Number of Permissions: 12
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WAKE_LOCK
+android.permission.VIBRATE
+com.buzzfeed.video.permission.UA_DATA
+com.buzzfeed.video.permission.C2D_MESSAGE
+com.amazon.device.messaging.permission.RECEIVE
+com.buzzfeed.video.permission.RECEIVE_ADM_MESSAGE

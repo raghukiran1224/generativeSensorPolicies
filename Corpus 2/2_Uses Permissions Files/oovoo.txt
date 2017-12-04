@@ -1,0 +1,20 @@
+App Name: oovoo.out
+Number of Permissions: 16
+Permissions List:
+1. android.permission.CAMERA
+2. android.permission.MODIFY_AUDIO_SETTINGS
+3. android.permission.RECORD_AUDIO
+4. android.permission.GET_ACCOUNTS
+5. android.permission.READ_PROFILE
+6. android.permission.READ_CONTACTS
+7. android.permission.INTERNET
+8. android.permission.ACCESS_NETWORK_STATE
+9. android.permission.ACCESS_WIFI_STATE
+10. android.permission.READ_EXTERNAL_STORAGE
+11. android.permission.WAKE_LOCK
+12. android.permission.WRITE_EXTERNAL_STORAGE
+13. android.permission.ACCESS_COARSE_LOCATION
+14. android.permission.VIBRATE
+15. com.google.android.c2dm.permission.RECEIVE
+16. com.oovoo.permission.C2D_MESSAGE
+

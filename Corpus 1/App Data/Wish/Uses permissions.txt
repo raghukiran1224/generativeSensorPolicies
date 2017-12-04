@@ -1,0 +1,12 @@
+Wish.txt
+Number of Permissions: 10
+android.permission.INTERNET
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.VIBRATE
+android.permission.WRITE_EXTERNAL_STORAGE
+com.contextlogic.wish.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.CAMERA
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS

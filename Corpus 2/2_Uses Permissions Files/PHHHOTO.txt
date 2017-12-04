@@ -1,0 +1,26 @@
+App Name: PHHHOTO
+Number of Permissions: 22
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.ACCESS_WIFI_STATE
+4. android.permission.CAMERA
+5. android.permission.WRITE_EXTERNAL_STORAGE
+6. android.permission.READ_EXTERNAL_STORAGE
+7. android.permission.RECORD_VIDEO
+8. android.permission.READ_CONTACTS
+9. android.permission.ACCESS_FINE_LOCATION
+10. android.permission.VIBRATE
+11. android.permission.SYSTEM_ALERT_WINDOW
+12. android.permission.CALL_PHONE
+13. android.permission.RECEIVE_SMS
+14. android.permission.RECORD_AUDIO
+15. android.permission.FLASHLIGHT
+16. android.permission.READ_PHONE_STATE
+17. android.permission.GET_ACCOUNTS
+18. android.permission.WAKE_LOCK
+19. com.google.android.c2dm.permission.RECEIVE
+20. com.phhhoto.android.permission.C2D_MESSAGE
+21. com.android.vending.BILLING
+22. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+

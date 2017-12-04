@@ -1,0 +1,44 @@
+App Name: CallerID&SMS
+Number of Permissions: 40
+Permissions List:
+1. android.permission.RECEIVE_BOOT_COMPLETED
+2. android.permission.CALL_PHONE
+3. android.permission.READ_CONTACTS
+4. android.permission.WRITE_CONTACTS
+5. android.permission.READ_PROFILE
+6. android.permission.RECEIVE_SMS
+7. android.permission.RECEIVE_MMS
+8. 22
+9. android.permission.VIBRATE
+10. android.permission.INTERNET
+11. android.permission.READ_SMS
+12. android.permission.WRITE_SMS
+13. android.permission.ACCESS_NETWORK_STATE
+14. android.permission.CHANGE_NETWORK_STATE
+15. android.permission.READ_PHONE_STATE
+16. android.permission.WAKE_LOCK
+17. android.permission.WRITE_EXTERNAL_STORAGE
+18. android.permission.INSTALL_DRM
+19. android.permission.RECORD_AUDIO
+20. android.permission.READ_EXTERNAL_STORAGE
+21. android.permission.MMS_SEND_OUTBOX_MSG
+22. android.permission.ACCESS_COARSE_LOCATION
+23. android.permission.PROCESS_OUTGOING_CALLS
+24. android.permission.READ_CALL_LOG
+25. android.permission.SYSTEM_ALERT_WINDOW
+26. android.permission.BATTERY_STATS
+27. com.sec.android.provider.badge.permission.READ
+28. com.sec.android.provider.badge.permission.WRITE
+29. com.htc.launcher.permission.READ_SETTINGS
+30. com.htc.launcher.permission.UPDATE_SHORTCUT
+31. com.sonyericsson.home.permission.BROADCAST_BADGE
+32. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+33. com.anddoes.launcher.permission.UPDATE_COUNT
+34. com.majeur.launcher.permission.UPDATE_BADGE
+35. com.huawei.android.launcher.permission.CHANGE_BADGE
+36. com.huawei.android.launcher.permission.READ_SETTINGS
+37. com.huawei.android.launcher.permission.WRITE_SETTINGS
+38. android.permission.READ_APP_BADGE
+39. com.oppo.launcher.permission.READ_SETTINGS
+40. com.oppo.launcher.permission.WRITE_SETTINGS
+

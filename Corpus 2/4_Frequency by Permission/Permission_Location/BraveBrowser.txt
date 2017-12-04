@@ -1,0 +1,6 @@
+
+brave(325)=16.0
+web(326)=6.0
+data(333)=6.0
+browsing(341)=6.0
+blocking(373)=6.0

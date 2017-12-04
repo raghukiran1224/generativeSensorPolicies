@@ -1,0 +1,10 @@
+App Name: MyWallet
+Number of Permissions: 6
+Permissions List:
+1. android.permission.WAKE_LOCK
+2. android.permission.RECEIVE_BOOT_COMPLETED
+3. android.permission.WRITE_EXTERNAL_STORAGE
+4. android.permission.VIBRATE
+5. android.permission.INTERNET
+6. android.permission.ACCESS_NETWORK_STATE
+

@@ -1,0 +1,6 @@
+
+vacation(439)=8.0
+hotel(750)=5.0
+motel(751)=5.0
+rental(752)=5.0
+travel(681)=4.0

@@ -1,0 +1,34 @@
+App Name: Cyman
+Number of Permissions: 30
+Permissions List:
+1. com.cyman.android.permission.C2D_MESSAGE
+2. android.permission.GET_ACCOUNTS
+3. android.permission.USE_CREDENTIALS
+4. android.permission.INTERNET
+5. android.permission.READ_CALENDAR
+6. android.permission.WRITE_CALENDAR
+7. android.permission.ACCESS_COARSE_LOCATION
+8. android.permission.ACCESS_FINE_LOCATION
+9. android.permission.VIBRATE
+10. android.permission.BLUETOOTH
+11. android.permission.BLUETOOTH_ADMIN
+12. android.permission.RECEIVE_BOOT_COMPLETED
+13. android.permission.READ_CALENDAR
+14. android.permission.ACCESS_WIFI_STATE
+15. android.permission.CHANGE_WIFI_STATE
+16. android.permission.WAKE_LOCK
+17. android.permission.SEND_SMS
+18. android.permission.WRITE_SMS
+19. android.permission.READ_SMS
+20. android.permission.RECEIVE_SMS
+21. android.permission.READ_CONTACTS
+22. android.permission.CALL_PHONE
+23. android.permission.READ_PHONE_STATE
+24. android.permission.MODIFY_AUDIO_SETTINGS
+25. android.permission.BROADCAST_STICKY
+26. com.google.android.c2dm.permission.RECEIVE
+27. android.permission.WRITE_EXTERNAL_STORAGE
+28. android.permission.ACCESS_NETWORK_STATE
+29. android.permission.RECORD_AUDIO
+30. android.permission.MODIFY_AUDIO_SETTINGS
+

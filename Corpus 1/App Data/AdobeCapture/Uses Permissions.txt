@@ -1,0 +1,19 @@
+Number of Permissions: 18
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.adobe.creativeapps.gather.permission.C2D_MESSAGE
+android.permission.CAMERA
+android.permission.READ_INTERNAL_STORAGE
+android.permission.WRITE_INTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.MANAGE_DOCUMENTS
+android.alarm.permission.SET_ALARM
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.GET_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS

@@ -1,0 +1,3 @@
+** Try the new Word, Excel, and PowerPoint apps! Now available for Android tablets and phones in the Google Play store: http://aka.ms/worda, http://aka.ms/excela, http://aka.ms/ppta. These new apps replace Office Mobile. **
+
+Microsoft Office Mobile is the Office companion for phones running Android OS prior to v4.4. You can access, view and edit your Word, Excel and PowerPoint documents from virtually anywhere. Documents look like the originals, thanks to support for charts, animations, SmartArt graphics and shapes. When you make quick edits or add comments to a document, the formatting and content remain intact.*

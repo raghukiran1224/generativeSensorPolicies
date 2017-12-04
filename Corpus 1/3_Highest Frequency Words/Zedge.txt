@@ -1,0 +1,6 @@
+
+wallpapers(1206)=10.0
+zedge(3460)=9.0
+ringtones(3461)=9.0
+screen(805)=8.0
+app(15)=7.0

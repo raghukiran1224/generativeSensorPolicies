@@ -1,0 +1,6 @@
+
+easily(215)=2.0
+premiere(250)=2.0
+video(57)=1.0
+fun(96)=1.0
+adobe(120)=1.0

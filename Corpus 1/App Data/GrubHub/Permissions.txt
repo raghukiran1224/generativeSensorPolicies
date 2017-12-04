@@ -1,0 +1,16 @@
+Version 6.24.0 can access:
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Phone
+read phone status and identity
+Camera
+take pictures and videos
+Device ID & call information
+read phone status and identity
+Other
+receive data from Internet
+view network connections
+full network access
+control vibration
+prevent device from sleeping

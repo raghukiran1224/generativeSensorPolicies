@@ -1,0 +1,18 @@
+App Name: fastestclean.out
+Number of Permissions: 14
+Permissions List:
+1. android.permission.BIND_ACCESSIBILITY_SERVICE
+2. android.permission.SYSTEM_ALERT_WINDOW
+3. android.permission.READ_PHONE_STATE
+4. android.permission.INTERNET
+5. android.permission.ACCESS_WIFI_STATE
+6. android.permission.ACCESS_NETWORK_STATE
+7. com.android.launcher.permission.INSTALL_SHORTCUT
+8. com.android.launcher.permission.UNINSTALL_SHORTCUT
+9. android.permission.KILL_BACKGROUND_PROCESSES
+10. android.permission.WRITE_EXTERNAL_STORAGE
+11. android.permission.READ_EXTERNAL_STORAGE
+12. android.permission.RECEIVE_BOOT_COMPLETED
+13. android.permission.GET_TASKS
+14. android.permission.PACKAGE_USAGE_STATS
+

@@ -1,0 +1,6 @@
+
+feature(239)=1.0
+tablet(353)=1.0
+ll(437)=1.0
+make(456)=1.0
+smartphone(583)=1.0

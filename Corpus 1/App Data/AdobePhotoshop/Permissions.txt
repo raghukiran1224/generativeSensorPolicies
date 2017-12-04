@@ -1,0 +1,19 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+view network connections
+create accounts and set passwords
+full network access
+use accounts on the device

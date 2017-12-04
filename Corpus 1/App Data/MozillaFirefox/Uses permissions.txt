@@ -1,0 +1,34 @@
+Mozilla Firefox.txt
+Number of Permissions: 32
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.WRITE_SETTINGS
+android.permission.READ_SYNC_STATS
+android.permission.READ_SYNC_SETTINGS
+org.mozilla.firefox_fxaccount.permission.PER_ACCOUNT_TYPE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+com.google.android.c2dm.permission.RECEIVE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+android.permission.WAKE_LOCK
+android.permission.VIBRATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.NFC
+android.permission.RECORD_AUDIO
+android.permission.CAMERA

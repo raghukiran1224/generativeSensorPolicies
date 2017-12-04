@@ -1,0 +1,44 @@
+App Name: TextraSMS
+Number of Permissions: 40
+Permissions List:
+1. android.permission.EXPAND_STATUS_BAR
+2. android.permission.WAKE_LOCK
+3. android.permission.READ_SMS
+4. android.permission.WRITE_SMS
+5. android.permission.RECEIVE_SMS
+6. android.permission.RECEIVE_MMS
+7. android.permission.SEND_SMS
+8. android.permission.READ_CONTACTS
+9. android.permission.WRITE_CONTACTS
+10. android.permission.VIBRATE
+11. android.permission.GET_TASKS
+12. android.permission.ACCESS_NETWORK_STATE
+13. android.permission.ACCESS_WIFI_STATE
+14. android.permission.CHANGE_WIFI_STATE
+15. android.permission.BLUETOOTH
+16. android.permission.INTERNET
+17. android.permission.CHANGE_NETWORK_STATE
+18. android.permission.READ_PHONE_STATE
+19. android.permission.WRITE_EXTERNAL_STORAGE
+20. android.permission.CALL_PHONE
+21. android.permission.RECORD_AUDIO
+22. android.permission.SYSTEM_ALERT_WINDOW
+23. android.permission.RECEIVE_BOOT_COMPLETED
+24. android.permission.DISABLE_KEYGUARD
+25. android.permission.GET_ACCOUNTS
+26. android.permission.ACCESS_COARSE_LOCATION
+27. com.android.vending.BILLING
+28. com.android.launcher.permission.READ_SETTINGS
+29. com.android.launcher.permission.WRITE_SETTINGS
+30. com.sonyericsson.home.permission.BROADCAST_BADGE
+31. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+32. com.htc.launcher.permission.WRITE_SETTINGS
+33. com.htc.launcher.permission.READ_SETTINGS
+34. com.htc.launcher.permission.UPDATE_SHORTCUT
+35. com.sec.android.provider.badge.permission.READ
+36. com.sec.android.provider.badge.permission.WRITE
+37. com.huawei.android.launcher.permission.CHANGE_BADGE
+38. com.huawei.android.launcher.permission.READ_SETTINGS
+39. com.huawei.android.launcher.permission.WRITE_SETTINGS
+40. android.permission.CAMERA
+

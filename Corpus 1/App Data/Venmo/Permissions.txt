@@ -1,0 +1,23 @@
+Version 7.1.1 can access:
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+read your contacts
+Location
+precise location (GPS and network-based)
+SMS
+send SMS messages
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+receive data from Internet
+view network connections
+full network access
+draw over other apps
+control vibration
+prevent device from sleeping

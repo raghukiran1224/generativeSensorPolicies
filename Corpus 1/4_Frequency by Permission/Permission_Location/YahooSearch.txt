@@ -1,0 +1,6 @@
+
+search(275)=4.0
+find(392)=3.0
+results(1111)=3.0
+information(529)=2.0
+faster(1604)=2.0

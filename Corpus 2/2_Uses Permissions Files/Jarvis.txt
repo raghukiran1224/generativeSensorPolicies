@@ -1,0 +1,36 @@
+App Name: Jarvis
+Number of Permissions: 32
+Permissions List:
+1. android.permission.RECEIVE_BOOT_COMPLETED
+2. android.permission.CHANGE_WIFI_STATE
+3. android.permission.ACCESS_WIFI_STATE
+4. android.permission.BLUETOOTH_ADMIN
+5. android.permission.MODIFY_AUDIO_SETTINGS
+6. android.permission.CHANGE_NETWORK_STATE
+7. android.permission.WRITE_SETTINGS
+8. android.permission.ACCESS_NETWORK_STATE
+9. android.permission.BROADCAST_STICKY
+10. android.permission.WAKE_LOCK
+11. com.android.alarm.permission.SET_ALARM
+12. android.permission.SET_WALLPAPER
+13. android.permission.GET_ACCOUNTS
+14. android.permission.READ_EXTERNAL_STORAGE
+15. android.permission.WRITE_EXTERNAL_STORAGE
+16. android.permission.READ_PHONE_STATE
+17. android.permission.PROCESS_OUTGOING_CALLS
+18. android.permission.READ_CONTACTS
+19. android.permission.RECEIVE_SMS
+20. android.permission.SEND_SMS
+21. android.permission.CALL_PHONE
+22. android.permission.DISABLE_KEYGUARD
+23. android.permission.VIBRATE
+24. android.permission.RECORD_AUDIO
+25. android.permission.ACCESS_FINE_LOCATION
+26. android.permission.ACCESS_COARSE_LOCATION
+27. android.permission.CAMERA
+28. android.permission.FLASHLIGHT
+29. com.android.vending.BILLING
+30. android.permission.INTERNET
+31. com.google.android.c2dm.permission.RECEIVE
+32. com.itsmylab.jarvis.permission.C2D_MESSAGE
+

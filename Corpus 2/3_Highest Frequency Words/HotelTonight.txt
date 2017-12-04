@@ -1,0 +1,6 @@
+
+hoteltonight(1093)=8.0
+hotels(1064)=6.0
+minute(131)=5.0
+find(88)=4.0
+great(513)=4.0

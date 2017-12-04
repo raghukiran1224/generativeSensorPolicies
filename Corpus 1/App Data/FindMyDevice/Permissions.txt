@@ -1,0 +1,12 @@
+Version 2.0.014 can access:
+Identity
+add or remove accounts
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Other
+receive data from Internet
+view network connections
+full network access
+use accounts on the device
+read Google service configuration

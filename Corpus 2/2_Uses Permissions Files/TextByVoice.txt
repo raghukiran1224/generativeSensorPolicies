@@ -1,0 +1,24 @@
+App Name: TextByVoice
+Number of Permissions: 20
+Permissions List:
+1. android.permission.WRITE_SMS
+2. android.permission.READ_SMS
+3. android.permission.RECEIVE_SMS
+4. android.permission.SEND_SMS
+5. android.permission.READ_CONTACTS
+6. android.permission.CALL_PHONE
+7. android.permission.INTERNET
+8. android.permission.ACCESS_NETWORK_STATE
+9. android.permission.ACCESS_WIFI_STATE
+10. android.permission.RECEIVE_BOOT_COMPLETED
+11. android.permission.BLUETOOTH
+12. android.permission.MODIFY_AUDIO_SETTINGS
+13. android.permission.BROADCAST_STICKY
+14. android.permission.READ_PHONE_STATE
+15. android.permission.WAKE_LOCK
+16. android.permission.RECORD_AUDIO
+17. android.permission.WRITE_EXTERNAL_STORAGE
+18. com.android.vending.BILLING
+19. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+20. android.permission.SYSTEM_ALERT_WINDOW
+

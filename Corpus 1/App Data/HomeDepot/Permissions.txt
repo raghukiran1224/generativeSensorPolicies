@@ -1,0 +1,34 @@
+Version 5.3 can access:
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+access extra location provider commands
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+receive data from Internet
+view network connections
+control flashlight
+full network access
+draw over other apps
+control vibration
+prevent device from sleeping
+read Google service configuration

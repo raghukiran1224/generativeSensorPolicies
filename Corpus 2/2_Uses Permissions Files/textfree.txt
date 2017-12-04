@@ -1,0 +1,46 @@
+App Name: textfree.out
+Number of Permissions: 42
+Permissions List:
+1. com.pinger.textfree.permission.C2D_MESSAGE
+2. android.permission.RECEIVE_BOOT_COMPLETED
+3. android.permission.INTERNET
+4. android.permission.VIBRATE
+5. android.permission.READ_CONTACTS
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.READ_EXTERNAL_STORAGE
+8. android.permission.READ_PHONE_STATE
+9. android.permission.ACCESS_NETWORK_STATE
+10. android.permission.ACCESS_COARSE_LOCATION
+11. android.permission.GET_ACCOUNTS
+12. android.permission.RECORD_AUDIO
+13. android.permission.MODIFY_AUDIO_SETTINGS
+14. android.permission.CALL_PHONE
+15. android.permission.WAKE_LOCK
+16. android.permission.WRITE_CONTACTS
+17. android.permission.SEND_SMS
+18. android.permission.READ_SMS
+19. android.permission.CHANGE_WIFI_MULTICAST_STATE
+20. android.permission.WRITE_SMS
+21. android.permission.RECEIVE_SMS
+22. android.permission.RECEIVE_MMS
+23. android.permission.GET_TASKS
+24. com.android.vending.BILLING
+25. android.permission.ACCESS_WIFI_STATE
+26. android.permission.DISABLE_KEYGUARD
+27. android.permission.READ_CALL_LOG
+28. android.permission.WRITE_CALL_LOG
+29. android.permission.WRITE_SETTINGS
+30. com.android.alarm.permission.SET_ALARM
+31. android.permission.MANAGE_ACCOUNTS
+32. android.permission.AUTHENTICATE_ACCOUNTS
+33. android.permission.READ_SYNC_SETTINGS
+34. android.permission.WRITE_SYNC_SETTINGS
+35. com.google.android.c2dm.permission.RECEIVE
+36. com.sec.android.provider.badge.permission.READ
+37. com.sec.android.provider.badge.permission.WRITE
+38. com.htc.launcher.permission.READ_SETTINGS
+39. com.htc.launcher.permission.UPDATE_SHORTCUT
+40. com.sonyericsson.home.permission.BROADCAST_BADGE
+41. com.anddoes.launcher.permission.UPDATE_COUNT
+42. com.majeur.launcher.permission.UPDATE_BADGE
+

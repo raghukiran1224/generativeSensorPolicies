@@ -1,0 +1,6 @@
+
+files(123)=3.0
+download(216)=3.0
+web(645)=3.0
+fvd(841)=3.0
+integrated(368)=2.0

@@ -1,0 +1,18 @@
+Dollar General.txt
+Number of Permissions: 16
+android.permission.INTERNET
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+22
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BLUETOOTH
+android.permission.BLUETOOTH_ADMIN
+com.dollargeneral.android.gcm.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.WAKE_LOCK
+android.permission.VIBRATE
+android.permission.WRITE_EXTERNAL_STORAGE
+com.dollargeneral.android.permission.MAPS_RECEIVE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.RECEIVE_BOOT_COMPLETED

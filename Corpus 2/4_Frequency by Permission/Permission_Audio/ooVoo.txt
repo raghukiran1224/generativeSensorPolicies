@@ -1,0 +1,6 @@
+
+video(196)=7.0
+oovoo(1481)=7.0
+friends(209)=6.0
+messaging(554)=6.0
+chains(1487)=5.0

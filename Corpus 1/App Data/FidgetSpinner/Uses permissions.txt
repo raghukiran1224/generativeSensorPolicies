@@ -1,0 +1,8 @@
+Fidget Spinner.txt
+Number of Permissions: 6
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+com.android.vending.BILLING
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_WIFI_STATE

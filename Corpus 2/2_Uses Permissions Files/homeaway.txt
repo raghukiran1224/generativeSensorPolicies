@@ -1,0 +1,15 @@
+App Name: homeaway.out
+Number of Permissions: 11
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.CAMERA
+3. android.permission.RECORD_AUDIO
+4. android.permission.WRITE_EXTERNAL_STORAGE
+5. android.permission.GET_ACCOUNTS
+6. com.android.vending.BILLING
+7. android.permission.ACCESS_NETWORK_STATE
+8. android.permission.ACCESS_FINE_LOCATION
+9. android.permission.ACCESS_WIFI_STATE
+10. com.google.android.c2dm.permission.RECEIVE
+11. android.permission.WAKE_LOCK
+

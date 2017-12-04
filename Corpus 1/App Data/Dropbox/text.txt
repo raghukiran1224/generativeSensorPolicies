@@ -1,0 +1,7 @@
+Dropbox keeps your files and your team in sync. Anything you save in Dropbox can be easily accessed from all of your devices. Sending large files is easy, even to people who don’t have a Dropbox account. And with features like the doc scanner, shared folders, offline access, and more, collaborating with others is simple.
+
+Features:
+• Work on files with others through shared folders
+• Use the document scanner to turn receipts, whiteboards, and notes into PDFs
+• Comment on files to share feedback with your team
+• Sync, share, and edit Word, Excel, and Powerpoint files

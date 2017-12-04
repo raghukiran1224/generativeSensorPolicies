@@ -1,0 +1,6 @@
+
+collage(1055)=7.0
+photos(512)=5.0
+photo(513)=4.0
+choose(678)=4.0
+make(456)=3.0

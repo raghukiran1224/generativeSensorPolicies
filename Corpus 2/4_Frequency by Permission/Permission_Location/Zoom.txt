@@ -1,0 +1,6 @@
+
+calls(1206)=5.0
+free(26)=3.0
+phone(104)=2.0
+international(156)=2.0
+group(553)=2.0

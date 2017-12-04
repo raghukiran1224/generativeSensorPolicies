@@ -1,0 +1,11 @@
+Version 2.1.6 can access:
+Photos/Media/Files
+read the contents of your USB storage
+Storage
+read the contents of your USB storage
+Camera
+take pictures and videos
+Other
+view network connections
+connect and disconnect from Wi-Fi
+full network access

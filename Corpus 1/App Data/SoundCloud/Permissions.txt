@@ -1,0 +1,26 @@
+Version 2017.06.12-release can access:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+create accounts and set passwords
+full network access
+read sync settings
+use accounts on the device
+prevent device from sleeping
+toggle sync on and off
+read Google service configuration

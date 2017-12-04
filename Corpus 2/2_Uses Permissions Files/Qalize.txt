@@ -1,0 +1,19 @@
+App Name: Qalize
+Number of Permissions: 15
+Permissions List:
+1. android.permission.ACCESS_FINE_LOCATION
+2. android.permission.ACCESS_COARSE_LOCATION
+3. android.permission.READ_CONTACTS
+4. android.permission.INTERNET
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.USE_FINGERPRINT
+7. com.google.android.c2dm.permission.RECEIVE
+8. android.permission.WRITE_EXTERNAL_STORAGE
+9. android.permission.WAKE_LOCK
+10. android.permission.RECEIVE_SMS
+11. android.permission.CALL_PHONE
+12. android.permission.USE_FINGERPRINT
+13. com.google.android.providers.gsf.permission.READ_GSERVICES
+14. com.qalize.permission.MAPS_RECEIVE
+15. com.qalize.permission.C2D_MESSAGE
+

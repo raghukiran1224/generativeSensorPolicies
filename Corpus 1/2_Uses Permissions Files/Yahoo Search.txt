@@ -1,0 +1,24 @@
+Yahoo Search.txt
+Number of Permissions: 22
+android.permission.READ_PHONE_STATE
+18
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECORD_AUDIO
+android.permission.CHANGE_CONFIGURATION
+com.yahoo.mobile.client.android.permissions.YAHOO_INTER_APP
+22
+22
+22
+22
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.google.android.c2dm.permission.RECEIVE
+android.permission.WAKE_LOCK
+android.permission.VIBRATE
+com.yahoo.mobile.client.android.search.permission.C2D_MESSAGE
+com.yahoo.mobile.client.android.search.permission.RECEIVE_ADM_MESSAGE
+com.amazon.device.messaging.permission.RECEIVE
+android.permission.READ_EXTERNAL_STORAGE

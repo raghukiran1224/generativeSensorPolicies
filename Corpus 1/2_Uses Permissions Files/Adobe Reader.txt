@@ -1,0 +1,11 @@
+Number of Permissions: 10
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+com.android.vending.BILLING
+android.permission.CAMERA
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.GET_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS

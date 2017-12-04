@@ -1,0 +1,17 @@
+Version 17.9 can access:
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Photos/Media/Files
+read the contents of your USB storage
+Storage
+read the contents of your USB storage
+Camera
+take pictures and videos
+Other
+receive data from Internet
+view network connections
+full network access
+control vibration
+prevent device from sleeping
+read Google service configuration

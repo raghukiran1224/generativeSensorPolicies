@@ -1,0 +1,15 @@
+Etsy.txt
+Number of Permissions: 13
+com.etsy.android.permission.C2D_MESSAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.GET_ACCOUNTS
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.NFC
+android.permission.GET_TASKS
+android.permission.USE_CREDENTIALS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_COARSE_LOCATION

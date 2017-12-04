@@ -1,0 +1,50 @@
+Version 3.6.7 can access:
+Device & app history
+retrieve running apps
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+access extra location provider commands
+SMS
+read your text messages (SMS or MMS)
+Phone
+read phone status and identity
+Photos/Media/Files
+access USB storage filesystem
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+modify secure system settings
+read Home settings and shortcuts
+read Home settings and shortcuts
+receive data from Internet
+mock location sources for testing
+view network connections
+pair with Bluetooth devices
+change system display settings
+connect and disconnect from Wi-Fi
+measure app storage space
+full network access
+run at startup
+control vibration
+prevent device from sleeping
+modify system settings
+install shortcuts
+uninstall shortcuts

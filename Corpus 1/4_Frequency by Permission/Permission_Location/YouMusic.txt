@@ -1,0 +1,6 @@
+
+music(77)=2.0
+application(115)=1.0
+mobile(129)=1.0
+talk(226)=1.0
+videos(255)=1.0

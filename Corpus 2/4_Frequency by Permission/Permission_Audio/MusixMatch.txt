@@ -1,0 +1,6 @@
+
+lyrics(1231)=19.0
+music(214)=11.0
+song(280)=9.0
+musixmatch(1230)=8.0
+favourite(1239)=6.0

@@ -1,0 +1,6 @@
+
+app(15)=6.0
+rewards(1457)=5.0
+doctor(3136)=5.0
+photos(183)=4.0
+balance(1456)=4.0

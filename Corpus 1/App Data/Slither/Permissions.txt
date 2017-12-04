@@ -1,0 +1,17 @@
+This app has access to:
+In-app purchases
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Device ID & call information
+read phone status and identity
+Other
+view network connections
+disable your screen lock
+full network access
+prevent device from sleeping

@@ -1,0 +1,13 @@
+App Name: Photofunia
+Number of Permissions: 9
+Permissions List:
+1. com.photofunia.android.permission.C2D_MESSAGE
+2. android.permission.INTERNET
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.WRITE_EXTERNAL_STORAGE
+5. android.permission.READ_EXTERNAL_STORAGE
+6. android.permission.CAMERA
+7. android.permission.WAKE_LOCK
+8. com.google.android.c2dm.permission.RECEIVE
+9. com.photofunia.android.permission.C2D_MESSAGE
+

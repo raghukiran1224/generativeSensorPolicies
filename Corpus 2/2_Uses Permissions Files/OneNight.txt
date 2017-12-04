@@ -1,0 +1,14 @@
+App Name: OneNight
+Number of Permissions: 10
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.WRITE_EXTERNAL_STORAGE
+3. android.permission.ACCESS_FINE_LOCATION
+4. android.permission.ACCESS_COARSE_LOCATION
+5. android.permission.CAMERA
+6. android.permission.VIBRATE
+7. android.permission.WAKE_LOCK
+8. android.permission.ACCESS_NETWORK_STATE
+9. com.google.android.c2dm.permission.RECEIVE
+10. com.onenightllc.onenight.permission.C2D_MESSAGE
+

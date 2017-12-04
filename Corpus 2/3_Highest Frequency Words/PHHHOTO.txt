@@ -1,0 +1,6 @@
+
+video(73)=1.0
+share(237)=1.0
+instant(277)=1.0
+pictures(422)=1.0
+follow(526)=1.0

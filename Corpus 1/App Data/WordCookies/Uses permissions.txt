@@ -1,0 +1,11 @@
+WordCookies.txt
+Number of Permissions: 9
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.INTERNET
+android.permission.WAKE_LOCK
+android.permission.VIBRATE
+com.bitmango.go.wordcookies.permission.C2D_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+com.android.vending.BILLING

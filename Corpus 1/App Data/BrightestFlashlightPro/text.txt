@@ -1,0 +1,8 @@
+Brightest Flashlight quickly and easily turns on the flash next to the rear camera, and keeps it continuously lit. 
+
+Features:
+1. Torchlight in Dark
+2. Flashing LED for Calls or Messages
+3.Shake to Light LED
+4.Cool Call-Screen Light
+5.Strobe/Blinking Mode

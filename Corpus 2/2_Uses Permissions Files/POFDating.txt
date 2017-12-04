@@ -1,0 +1,31 @@
+App Name: POFDating
+Number of Permissions: 27
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_COARSE_LOCATION
+3. android.permission.ACCESS_FINE_LOCATION
+4. android.permission.ACCESS_NETWORK_STATE
+5. android.permission.RECEIVE_BOOT_COMPLETED
+6. android.permission.READ_EXTERNAL_STORAGE
+7. 22
+8. android.permission.VIBRATE
+9. 22
+10. android.permission.WAKE_LOCK
+11. 22
+12. android.permission.GET_TASKS
+13. android.permission.RECORD_AUDIO
+14. android.permission.MODIFY_AUDIO_SETTINGS
+15. android.permission.ACCESS_WIFI_STATE
+16. android.permission.READ_PHONE_STATE
+17. com.pof.android.permission.C2D_MESSAGE
+18. com.google.android.c2dm.permission.RECEIVE
+19. android.permission.SYSTEM_ALERT_WINDOW
+20. com.android.vending.BILLING
+21. com.sec.android.provider.badge.permission.READ
+22. com.sec.android.provider.badge.permission.WRITE
+23. com.htc.launcher.permission.READ_SETTINGS
+24. com.htc.launcher.permission.UPDATE_SHORTCUT
+25. com.sonyericsson.home.permission.BROADCAST_BADGE
+26. com.anddoes.launcher.permission.UPDATE_COUNT
+27. com.majeur.launcher.permission.UPDATE_BADGE
+

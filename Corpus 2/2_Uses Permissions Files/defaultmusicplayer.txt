@@ -1,0 +1,19 @@
+App Name: defaultmusicplayer.out
+Number of Permissions: 15
+Permissions List:
+1. android.permission.WRITE_SETTINGS
+2. android.permission.SYSTEM_ALERT_WINDOW
+3. android.permission.WAKE_LOCK
+4. android.permission.INTERNET
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.READ_PHONE_STATE
+7. android.permission.WRITE_EXTERNAL_STORAGE
+8. android.permission.BROADCAST_STICKY
+9. android.permission.WRITE_EXTERNAL_STORAGE
+10. android.permission.INTERNET
+11. android.permission.ACCESS_NETWORK_STATE
+12. android.permission.CHANGE_NETWORK_STATE
+13. android.permission.ACCESS_WIFI_STATE
+14. com.google.android.c2dm.permission.RECEIVE
+15. com.musicplayer.music.permission.C2D_MESSAGE
+

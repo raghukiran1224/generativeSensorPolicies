@@ -1,0 +1,38 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Calendar
+read calendar events plus confidential information
+Contacts
+find accounts on the device
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+download files without notification
+receive data from Internet
+view network connections
+create accounts and set passwords
+connect and disconnect from Wi-Fi
+full network access
+control Near Field Communication
+read sync settings
+run at startup
+use accounts on the device
+control vibration
+prevent device from sleeping
+toggle sync on and off
+set an alarm
+install shortcuts
+read Google service configuration

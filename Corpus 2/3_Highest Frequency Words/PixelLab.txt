@@ -1,0 +1,6 @@
+
+text(36)=13.0
+image(278)=7.0
+stickers(502)=5.0
+images(555)=5.0
+color(82)=4.0

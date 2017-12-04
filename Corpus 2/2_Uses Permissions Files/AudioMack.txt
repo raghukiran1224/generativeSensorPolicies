@@ -1,0 +1,19 @@
+App Name: AudioMack
+Number of Permissions: 15
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.WAKE_LOCK
+4. android.permission.VIBRATE
+5. android.permission.ACCESS_WIFI_STATE
+6. 22
+7. android.permission.ACCESS_COARSE_LOCATION
+8. android.permission.WRITE_EXTERNAL_STORAGE
+9. com.google.android.c2dm.permission.RECEIVE
+10. com.audiomack.permission.C2D_MESSAGE
+11. com.android.vending.BILLING
+12. android.permission.CAMERA
+13. android.permission.RECORD_VIDEO
+14. android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+15. android.permission.READ_EXTERNAL_STORAGE
+

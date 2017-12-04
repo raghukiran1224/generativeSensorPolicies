@@ -1,0 +1,12 @@
+Microsoft Office.txt
+Number of Permissions: 10
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.GET_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_LOGS

@@ -1,0 +1,13 @@
+Yahoo Video Guide.txt
+Number of Permissions: 11
+android.permission.INTERNET
+18
+com.google.android.c2dm.permission.RECEIVE
+com.yahoo.mobile.client.android.guide.permission.C2D_MESSAGE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_WIFI_STATE
+com.yahoo.mobile.client.android.guide.permission.RECEIVE_ADM_MESSAGE
+com.amazon.device.messaging.permission.RECEIVE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+18

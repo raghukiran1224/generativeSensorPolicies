@@ -1,0 +1,6 @@
+
+quotes(172)=10.0
+module(637)=10.0
+assistant(534)=8.0
+sounds(676)=6.0
+services(302)=5.0

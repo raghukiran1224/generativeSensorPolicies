@@ -1,0 +1,6 @@
+
+music(246)=16.0
+player(157)=8.0
+support(311)=6.0
+files(104)=5.0
+background(224)=5.0

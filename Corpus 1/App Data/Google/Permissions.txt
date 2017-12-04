@@ -1,0 +1,81 @@
+This app has access to:
+Device & app history
+retrieve running apps
+read your Web bookmarks and history
+Identity
+find accounts on the device
+add or remove accounts
+read your own contact card
+Calendar
+read calendar events plus confidential information
+add or modify calendar events and send email to guests without owners' knowledge
+Contacts
+find accounts on the device
+read your contacts
+modify your contacts
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+SMS
+read your text messages (SMS or MMS)
+send SMS messages
+edit your text messages (SMS or MMS)
+Phone
+directly call phone numbers
+directly call any phone numbers
+read call log
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+choose widgets
+Hotword detection
+download files without notification
+interact across users
+manage voice keyphrases
+control media playback and metadata access
+retrieve running apps
+adjust your wallpaper size
+disable or modify status bar
+prevent app switches
+modify secure system settings
+Preload results
+receive data from Internet
+Permission to write Sound Search matches
+view configured accounts
+contacts data in Google accounts
+Read Google settings
+Modify Google settings
+view network connections
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+connect and disconnect from Wi-Fi
+control flashlight
+measure app storage space
+full network access
+change your audio settings
+read sync settings
+run at startup
+set wallpaper
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+set an alarm
+write web bookmarks and history
+install shortcuts
+read Google service configuration

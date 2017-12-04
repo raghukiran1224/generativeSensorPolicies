@@ -1,0 +1,16 @@
+App Name: VLC
+Number of Permissions: 12
+Permissions List:
+1. org.videolan.vlc.permission.READ_EXTENSION_DATA
+2. org.videolan.vlc.permission.BIND_DATA_CONSUMER
+3. android.permission.VIBRATE
+4. android.permission.WRITE_SETTINGS
+5. android.permission.WRITE_EXTERNAL_STORAGE
+6. android.permission.INTERNET
+7. android.permission.RECEIVE_BOOT_COMPLETED
+8. android.permission.ACCESS_NETWORK_STATE
+9. android.permission.WAKE_LOCK
+10. android.permission.MODIFY_AUDIO_SETTINGS
+11. android.permission.BLUETOOTH
+12. android.permission.SYSTEM_ALERT_WINDOW
+

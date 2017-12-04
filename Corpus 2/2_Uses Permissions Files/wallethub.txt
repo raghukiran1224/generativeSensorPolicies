@@ -1,0 +1,28 @@
+App Name: wallethub.out
+Number of Permissions: 24
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.WRITE_EXTERNAL_STORAGE
+4. android.permission.ACCESS_WIFI_STATE
+5. android.permission.RECEIVE_BOOT_COMPLETED
+6. android.permission.WAKE_LOCK
+7. android.permission.VIBRATE
+8. com.google.android.c2dm.permission.RECEIVE
+9. com.wallethub.mywallet.permission.C2D_MESSAGE
+10. com.wallethub.mywallet.permission.PushHandlerActivity
+11. com.sec.android.provider.badge.permission.READ
+12. com.sec.android.provider.badge.permission.WRITE
+13. com.htc.launcher.permission.READ_SETTINGS
+14. com.htc.launcher.permission.UPDATE_SHORTCUT
+15. com.sonyericsson.home.permission.BROADCAST_BADGE
+16. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+17. com.anddoes.launcher.permission.UPDATE_COUNT
+18. com.majeur.launcher.permission.UPDATE_BADGE
+19. com.huawei.android.launcher.permission.CHANGE_BADGE
+20. com.huawei.android.launcher.permission.READ_SETTINGS
+21. com.huawei.android.launcher.permission.WRITE_SETTINGS
+22. android.permission.READ_APP_BADGE
+23. com.oppo.launcher.permission.READ_SETTINGS
+24. com.oppo.launcher.permission.WRITE_SETTINGS
+

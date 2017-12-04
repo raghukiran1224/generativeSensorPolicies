@@ -1,0 +1,20 @@
+Microsoft Word.txt
+Number of Permissions: 18
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.ACCESS_WIFI_STATE
+com.android.vending.CHECK_LICENSE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.google.android.c2dm.permission.RECEIVE
+com.microsoft.office.word.permission.C2D_MESSAGE
+android.permission.READ_CONTACTS
+android.permission.GET_PACKAGE_SIZE
+com.android.alarm.permission.SET_ALARM
+com.android.vending.BILLING

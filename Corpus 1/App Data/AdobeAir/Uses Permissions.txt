@@ -1,0 +1,9 @@
+Number of Permissions: 8
+android.permission.INTERNET
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS

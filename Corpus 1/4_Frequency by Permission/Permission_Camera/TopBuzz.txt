@@ -1,0 +1,6 @@
+
+news(73)=5.0
+content(54)=2.0
+today(84)=2.0
+videos(255)=2.0
+trending(845)=2.0

@@ -1,0 +1,6 @@
+
+photos(512)=2.0
+design(1072)=2.0
+piclab(1440)=2.0
+studio(1441)=2.0
+graphics(1445)=2.0

@@ -1,0 +1,18 @@
+Reddit.txt
+Number of Permissions: 16
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.GET_ACCOUNTS
+android.permission.USE_CREDENTIALS
+android.permission.MANAGE_ACCOUNTS
+android.permission.READ_SYNC_SETTINGS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.reddit.frontpage.permission.C2D_MESSAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.VIBRATE
+android.permission.READ_LOGS

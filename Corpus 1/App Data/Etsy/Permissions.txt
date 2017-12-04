@@ -1,0 +1,27 @@
+Version 4.68.0 can access:
+Device & app history
+retrieve running apps
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+receive data from Internet
+view network connections
+pair with Bluetooth devices
+access Bluetooth settings
+full network access
+control Near Field Communication
+run at startup
+use accounts on the device
+control vibration
+prevent device from sleeping

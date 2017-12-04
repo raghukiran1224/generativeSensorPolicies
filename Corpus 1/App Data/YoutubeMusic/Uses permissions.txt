@@ -1,0 +1,22 @@
+Youtube Music.txt
+Number of Permissions: 20
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.BLUETOOTH
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_WIFI_STATE
+android.permission.INTERNET
+android.permission.NFC
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.WRITE_SETTINGS
+com.google.android.c2dm.permission.RECEIVE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+22
+22
+22

@@ -1,0 +1,6 @@
+
+light(334)=5.0
+brightness(385)=5.0
+screen(159)=3.0
+shake(558)=3.0
+restore(559)=3.0

@@ -1,0 +1,36 @@
+Version 5.9.1 can access:
+In-app purchases
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts
+Location
+precise location (GPS and network-based)
+SMS
+receive text messages (SMS)
+send SMS messages
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Device ID & call information
+read phone status and identity
+Other
+manage document storage
+modify app ops statistics
+receive data from Internet
+view network connections
+create accounts and set passwords
+full network access
+read sync settings
+use accounts on the device
+control vibration
+prevent device from sleeping
+toggle sync on and off
+install shortcuts

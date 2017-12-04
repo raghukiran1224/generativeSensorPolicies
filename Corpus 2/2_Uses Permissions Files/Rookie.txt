@@ -1,0 +1,13 @@
+App Name: Rookie
+Number of Permissions: 9
+Permissions List:
+1. android.permission.CAMERA
+2. android.permission.WRITE_EXTERNAL_STORAGE
+3. android.permission.READ_EXTERNAL_STORAGE
+4. android.permission.INTERNET
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.ACCESS_WIFI_STATE
+7. android.permission.ACCESS_FINE_LOCATION
+8. android.permission.INTERACT_ACROSS_USERS_FULL
+9. com.android.vending.BILLING
+

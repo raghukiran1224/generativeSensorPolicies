@@ -1,0 +1,14 @@
+App Name: experian.out
+Number of Permissions: 10
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.CALL_PHONE
+4. android.permission.READ_PHONE_STATE
+5. android.permission.ACCESS_WIFI_STATE
+6. android.permission.USE_FINGERPRINT
+7. com.android.vending.BILLING
+8. android.permission.WAKE_LOCK
+9. com.google.android.c2dm.permission.RECEIVE
+10. com.experian.android.permission.C2D_MESSAGE
+

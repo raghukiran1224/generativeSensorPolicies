@@ -1,0 +1,25 @@
+Tumblr.txt
+Number of Permissions: 23
+com.tumblr.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+com.tumblr.SERVICE_PERMISSION
+22
+android.permission.WAKE_LOCK
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+22
+22
+android.permission.READ_SYNC_SETTINGS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.READ_CONTACTS
+android.permission.NFC
+android.permission.CAMERA
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.ACCESS_WIFI_STATE
+htc.socialmanager.permission.USE_SOCIALSERVICE
+htc.socialmanager.permission.READ_SOCIAL_DATABASE
+htc.socialmanager.permission.WRITE_SOCIAL_DATABASE
+htc.socialmanager.permission.USE_SOCIALCOMPONENT
+com.tumblr.permission.TUMBLR_INTER_APP
+android.permission.READ_EXTERNAL_STORAGE

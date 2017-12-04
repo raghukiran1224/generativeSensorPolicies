@@ -1,0 +1,11 @@
+Version 1.1.3 can access:
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+Other
+receive data from Internet
+view network connections
+full network access
+control vibration
+prevent device from sleeping

@@ -1,0 +1,6 @@
+
+news(73)=11.0
+stories(838)=4.0
+newsroom(3303)=4.0
+world(125)=3.0
+people(725)=3.0

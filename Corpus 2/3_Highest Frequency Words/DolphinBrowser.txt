@@ -1,0 +1,6 @@
+
+browser(66)=10.0
+dolphin(572)=8.0
+data(80)=5.0
+incognito(160)=4.0
+information(19)=3.0

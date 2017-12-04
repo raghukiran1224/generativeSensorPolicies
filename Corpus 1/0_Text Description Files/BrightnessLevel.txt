@@ -1,0 +1,1 @@
+This is widget, which allows you easily change screen brightness.

@@ -1,0 +1,14 @@
+MyAndroid.txt
+Number of Permissions: 12
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.INTERNET
+android.permission.READ_CONTACTS
+android.permission.READ_CALL_LOG
+android.permission.CAMERA
+android.permission.VIBRATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.innovationm.myandroid.permission.C2D_MESSAGE

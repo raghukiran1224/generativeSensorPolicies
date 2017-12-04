@@ -1,0 +1,7 @@
+Nifty DIY Crafts.txt
+Number of Permissions: 5
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+money.hack.diy.nifty.permission.C2D_MESSAGE

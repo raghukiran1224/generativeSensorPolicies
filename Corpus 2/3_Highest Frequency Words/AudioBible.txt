@@ -1,0 +1,6 @@
+
+version(215)=4.0
+listening(206)=2.0
+bibles(207)=2.0
+king(217)=2.0
+james(218)=2.0

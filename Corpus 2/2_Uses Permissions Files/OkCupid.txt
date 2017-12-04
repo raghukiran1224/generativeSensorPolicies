@@ -1,0 +1,16 @@
+App Name: OkCupid
+Number of Permissions: 12
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.VIBRATE
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.ACCESS_FINE_LOCATION
+5. android.permission.ACCESS_COARSE_LOCATION
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.READ_EXTERNAL_STORAGE
+8. android.permission.WAKE_LOCK
+9. android.permission.GET_ACCOUNTS
+10. com.google.android.c2dm.permission.RECEIVE
+11. com.okcupid.okcupid.permission.C2D_MESSAGE
+12. com.android.vending.BILLING
+

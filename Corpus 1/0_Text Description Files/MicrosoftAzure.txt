@@ -1,0 +1,4 @@
+The Microsoft Azure app helps you keep track of your resources while on-the-go:
+- Stay connected to the cloud and check status and critical metrics anytime, anywhere
+- Stay informed with notifications and alerts about important health issues 
+- Stay in control of your resources and take corrective actions, like starting and stopping VMs and web apps

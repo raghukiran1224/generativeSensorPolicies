@@ -1,0 +1,6 @@
+
+pulse(1402)=8.0
+messages(421)=7.0
+web(42)=6.0
+sms(23)=5.0
+messenger(798)=5.0

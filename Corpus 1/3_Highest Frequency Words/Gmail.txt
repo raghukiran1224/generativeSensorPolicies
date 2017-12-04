@@ -1,0 +1,6 @@
+
+messages(530)=5.0
+gmail(1905)=5.0
+free(50)=2.0
+account(119)=2.0
+email(272)=2.0

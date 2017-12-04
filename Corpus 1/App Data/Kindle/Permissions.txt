@@ -1,0 +1,38 @@
+This app has access to:
+Device & app history
+retrieve running apps
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Phone
+read phone status and identity
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+read phone status and identity
+Other
+Access download manager.
+download files without notification
+interact across users
+manage users
+Send download notifications.
+receive data from Internet
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+send sticky broadcast
+full network access
+run at startup
+use accounts on the device
+prevent device from sleeping
+modify system settings

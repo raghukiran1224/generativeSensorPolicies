@@ -1,0 +1,32 @@
+App Name: Lyra
+Number of Permissions: 28
+Permissions List:
+1. android.permission.CALL_PHONE
+2. android.permission.ACCESS_FINE_LOCATION
+3. android.permission.ACCESS_COARSE_LOCATION
+4. android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+5. android.permission.SUBSCRIBED_FEEDS_READ
+6. com.android.alarm.permission.SET_ALARM
+7. android.permission.ACCESS_NETWORK_STATE
+8. android.permission.INTERNET
+9. android.permission.RECORD_AUDIO
+10. android.permission.READ_PHONE_STATE
+11. android.permission.READ_CONTACTS
+12. android.permission.WRITE_CONTACTS
+13. android.permission.READ_PROFILE
+14. android.permission.VIBRATE
+15. android.permission.READ_CALENDAR
+16. android.permission.WRITE_CALENDAR
+17. android.permission.SEND_SMS
+18. android.permission.RECEIVE_SMS
+19. android.permission.READ_SMS
+20. android.permission.WRITE_SMS
+21. android.permission.GET_TASKS
+22. android.permission.CAMERA
+23. android.permission.BLUETOOTH_ADMIN
+24. android.permission.BLUETOOTH
+25. android.permission.WAKE_LOCK
+26. android.permission.READ_EXTERNAL_STORAGE
+27. android.permission.WRITE_EXTERNAL_STORAGE
+28. android.permission.WRITE_SETTINGS
+

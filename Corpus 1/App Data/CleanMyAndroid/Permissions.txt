@@ -1,0 +1,35 @@
+This app has access to:
+Device & app history
+retrieve running apps
+Contacts
+read your contacts
+modify your contacts
+Location
+approximate location (network-based)
+Phone
+reroute outgoing calls
+read call log
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+bind to an accessibility service
+view network connections
+delete all app cache data
+measure app storage space
+full network access
+close other apps
+run at startup
+draw over other apps
+prevent device from sleeping
+install shortcuts

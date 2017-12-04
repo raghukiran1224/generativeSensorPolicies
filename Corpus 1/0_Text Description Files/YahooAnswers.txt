@@ -1,0 +1,15 @@
+This app is standalone from the Yahoo Answers website and your questions and answers will not sync between them.
+
+Yahoo Answers Now is a new Q&A app that gets you quick advice and honest answers to questions that a regular web search just can’t solve. Get real answers from real people when you really need it!
+
+Key Features: 
+
+• Real results - We’ll route your questions to knowledgeable people and experts in the community for a quick response.
+
+• Craft awesome answers - Share your knowledge and answer questions with text, photos, emojis and links. 
+
+• Blazing fast - Receive real time notifications when someone answers your question or thanks you for a great response.
+
+• Create our community - Write rich answers. Ask questions. Comment on anything. Thank someone for a great answer. Keep track of your favorite contributors, posts, topics and followers.
+
+• Slick and Simple - You’ll love the easy-to-use interface. Browse by category or search for specific questions or topics

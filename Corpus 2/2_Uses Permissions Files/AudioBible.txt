@@ -1,0 +1,20 @@
+App Name: AudioBible
+Number of Permissions: 16
+Permissions List:
+1. android.permission.INTERNET
+2. com.android.alarm.permission.SET_ALARM
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.WRITE_EXTERNAL_STORAGE
+5. android.permission.WAKE_LOCK
+6. com.fatowl.audiobible.permission.C2D_MESSAGE
+7. com.google.android.c2dm.permission.RECEIVE
+8. android.permission.VIBRATE
+9. android.permission.RECEIVE_BOOT_COMPLETED
+10. com.sec.android.provider.badge.permission.READ
+11. com.sec.android.provider.badge.permission.WRITE
+12. com.htc.launcher.permission.READ_SETTINGS
+13. com.htc.launcher.permission.UPDATE_SHORTCUT
+14. com.sonyericsson.home.permission.BROADCAST_BADGE
+15. com.anddoes.launcher.permission.UPDATE_COUNT
+16. com.majeur.launcher.permission.UPDATE_BADGE
+

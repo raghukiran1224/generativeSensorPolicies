@@ -1,0 +1,13 @@
+Hooked.txt
+Number of Permissions: 11
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+com.android.vending.BILLING
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CAMERA
+com.google.android.c2dm.permission.RECEIVE
+tv.telepathic.hooked.permission.C2D_MESSAGE

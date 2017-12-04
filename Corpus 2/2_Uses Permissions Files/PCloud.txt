@@ -1,0 +1,17 @@
+App Name: PCloud
+Number of Permissions: 13
+Permissions List:
+1. com.android.vending.BILLING
+2. android.permission.INTERNET
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.ACCESS_WIFI_STATE
+5. android.permission.WRITE_EXTERNAL_STORAGE
+6. android.permission.READ_EXTERNAL_STORAGE
+7. android.permission.READ_PHONE_STATE
+8. android.permission.GET_TASKS
+9. android.permission.VIBRATE
+10. android.permission.RECEIVE_BOOT_COMPLETED
+11. android.permission.WAKE_LOCK
+12. com.google.android.c2dm.permission.RECEIVE
+13. com.pcloud.pcloud.permission.C2D_MESSAGE
+

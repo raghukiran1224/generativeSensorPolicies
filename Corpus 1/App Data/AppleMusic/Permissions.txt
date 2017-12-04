@@ -1,0 +1,23 @@
+Version 2.1.1 can access:
+Contacts
+read your contacts
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+download files without notification
+view network connections
+pair with Bluetooth devices
+change network connectivity
+connect and disconnect from Wi-Fi
+full network access
+prevent device from sleeping

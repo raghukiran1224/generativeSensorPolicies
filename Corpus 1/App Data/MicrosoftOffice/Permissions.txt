@@ -1,0 +1,29 @@
+Version 15.0.5430.2000 can access:
+Device & app history
+read sensitive log data
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+view network connections
+create accounts and set passwords
+measure app storage space
+full network access
+read terms you added to the dictionary
+run at startup
+use accounts on the device
+prevent device from sleeping
+add words to user-defined dictionary
+install shortcuts
+Google Play license check

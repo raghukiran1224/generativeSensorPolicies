@@ -1,0 +1,32 @@
+Google Doc.txt
+Number of Permissions: 30
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WAKE_LOCK
+android.permission.GET_ACCOUNTS
+android.permission.READ_USER_DICTIONARY
+android.permission.WRITE_USER_DICTIONARY
+android.permission.USE_CREDENTIALS
+android.permission.READ_CONTACTS
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.READ_SYNC_SETTINGS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.SUBSCRIBED_FEEDS_READ
+android.permission.SUBSCRIBED_FEEDS_WRITE
+android.permission.VIBRATE
+com.google.android.apps.docs.editors.kix.permission.WRITE_IMAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.MANAGE_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_SYNC_STATS
+android.permission.WRITE_SYNC_STATS
+com.google.android.gm.permission.READ_GMAIL
+com.google.android.googleapps.permission.GOOGLE_AUTH
+com.google.android.googleapps.permission.GOOGLE_AUTH.OTHER_SERVICES
+com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES
+com.google.android.googleapps.permission.GOOGLE_AUTH.writely
+com.google.android.googleapps.permission.GOOGLE_AUTH.wise
+com.google.android.apps.docs.editors.kix.permission.READ_MY_DATA
+com.google.android.apps.docs.editors.kix.permission.SYNC_STATUS

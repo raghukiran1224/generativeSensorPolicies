@@ -1,0 +1,6 @@
+
+hangouts(1024)=10.0
+calls(429)=7.0
+phone(145)=6.0
+number(154)=5.0
+call(22)=4.0

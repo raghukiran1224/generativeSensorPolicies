@@ -1,0 +1,6 @@
+
+messages(530)=2.0
+android(86)=1.0
+family(112)=1.0
+share(141)=1.0
+send(170)=1.0

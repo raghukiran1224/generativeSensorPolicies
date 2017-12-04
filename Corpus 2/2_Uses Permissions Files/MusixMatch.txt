@@ -1,0 +1,29 @@
+App Name: MusixMatch
+Number of Permissions: 25
+Permissions List:
+1. com.musixmatch.android.lyrify.permission.C2D_MESSAGE
+2. com.google.android.c2dm.permission.RECEIVE
+3. android.permission.USE_CREDENTIALS
+4. android.permission.WRITE_SETTINGS
+5. android.permission.SYSTEM_ALERT_WINDOW
+6. android.permission.WAKE_LOCK
+7. android.permission.INTERNET
+8. android.permission.READ_PHONE_STATE
+9. android.permission.WRITE_EXTERNAL_STORAGE
+10. android.permission.BROADCAST_STICKY
+11. android.permission.RECORD_AUDIO
+12. android.permission.ACCESS_NETWORK_STATE
+13. android.permission.GET_TASKS
+14. android.permission.VIBRATE
+15. 22
+16. android.permission.BLUETOOTH
+17. android.permission.BLUETOOTH_ADMIN
+18. android.permission.DISABLE_KEYGUARD
+19. android.permission.READ_EXTERNAL_STORAGE
+20. android.permission.MODIFY_AUDIO_SETTINGS
+21. android.permission.RECEIVE_BOOT_COMPLETED
+22. com.android.vending.BILLING
+23. com.musixmatch.android.lyrify.permission.SCROBBLET_PRIVATE_SERVICE
+24. android.permission.ACCESS_WIFI_STATE
+25. android.permission.CHANGE_WIFI_MULTICAST_STATE
+

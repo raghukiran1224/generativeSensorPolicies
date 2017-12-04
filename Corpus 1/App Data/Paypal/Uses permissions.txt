@@ -1,0 +1,24 @@
+Paypal.txt
+Number of Permissions: 22
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CAMERA
+android.permission.READ_PHONE_STATE
+android.permission.READ_PROFILE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.NFC
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_CONFIGURATION
+com.paypal.android.p2pmobile.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.ACCESS_WIFI_STATE
+android.permission.DISABLE_KEYGUARD
+org.fidoalliance.uaf.permissions.FIDO_CLIENT
+android.permission.USE_FINGERPRINT
+android.permission.AUTHENTICATE_ACCOUNTS

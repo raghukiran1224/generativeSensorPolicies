@@ -1,0 +1,6 @@
+
+local(70)=8.0
+yelp(3361)=7.0
+reviews(498)=6.0
+businesses(1948)=6.0
+discover(425)=5.0

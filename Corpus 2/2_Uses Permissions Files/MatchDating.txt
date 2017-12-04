@@ -1,0 +1,20 @@
+App Name: MatchDating
+Number of Permissions: 16
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_COARSE_LOCATION
+3. android.permission.WAKE_LOCK
+4. com.google.android.c2dm.permission.RECEIVE
+5. com.match.android.matchmobile.permission.C2D_MESSAGE
+6. android.permission.ACCESS_NETWORK_STATE
+7. android.permission.ACCESS_FINE_LOCATION
+8. android.permission.WRITE_EXTERNAL_STORAGE
+9. android.permission.GET_ACCOUNTS
+10. android.permission.VIBRATE
+11. android.permission.CAMERA
+12. android.permission.RECORD_AUDIO
+13. com.match.android.matchmobile.permission.RECEIVE_ADM_MESSAGE
+14. android.permission.RECEIVE_BOOT_COMPLETED
+15. android.permission.ACCESS_WIFI_STATE
+16. android.permission.CHANGE_WIFI_STATE
+

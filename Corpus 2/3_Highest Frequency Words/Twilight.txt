@@ -1,0 +1,6 @@
+
+screen(159)=6.0
+twilight(1543)=6.0
+light(334)=5.0
+tablet(146)=4.0
+time(227)=4.0

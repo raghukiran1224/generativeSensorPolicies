@@ -1,0 +1,6 @@
+
+actions(1255)=9.0
+voice(441)=8.0
+app(29)=6.0
+command(625)=6.0
+commands(13)=4.0

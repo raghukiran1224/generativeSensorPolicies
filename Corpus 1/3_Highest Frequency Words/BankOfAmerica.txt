@@ -1,0 +1,6 @@
+
+accounts(663)=7.0
+bank(542)=6.0
+mobile(129)=5.0
+credit(668)=5.0
+card(540)=4.0

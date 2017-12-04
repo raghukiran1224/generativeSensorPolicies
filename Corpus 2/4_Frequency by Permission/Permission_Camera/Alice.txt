@@ -1,0 +1,6 @@
+
+assistant(4)=2.0
+commands(13)=2.0
+personal(3)=1.0
+things(5)=1.0
+quickly(6)=1.0

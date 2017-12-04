@@ -1,0 +1,27 @@
+App Name: Skout
+Number of Permissions: 23
+Permissions List:
+1. com.skout.android.permission.C2D_MESSAGE
+2. com.google.android.c2dm.permission.RECEIVE
+3. android.permission.WAKE_LOCK
+4. android.permission.GET_ACCOUNTS
+5. android.permission.USE_CREDENTIALS
+6. android.permission.INTERNET
+7. android.permission.ACCESS_COARSE_LOCATION
+8. android.permission.ACCESS_FINE_LOCATION
+9. android.permission.VIBRATE
+10. android.permission.CAMERA
+11. android.permission.ACCESS_NETWORK_STATE
+12. android.permission.RECEIVE_BOOT_COMPLETED
+13. android.permission.WRITE_SMS
+14. android.permission.SEND_SMS
+15. android.permission.WRITE_EXTERNAL_STORAGE
+16. com.android.vending.BILLING
+17. android.permission.READ_CONTACTS
+18. android.permission.RECORD_AUDIO
+19. android.permission.ACCESS_WIFI_STATE
+20. android.permission.READ_PHONE_STATE
+21. com.google.android.providers.gsf.permission.READ_GSERVICES
+22. android.permission.READ_EXTERNAL_STORAGE
+23. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+

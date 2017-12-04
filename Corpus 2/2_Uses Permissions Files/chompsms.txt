@@ -1,0 +1,45 @@
+App Name: chompsms.out
+Number of Permissions: 41
+Permissions List:
+1. android.permission.RECEIVE_BOOT_COMPLETED
+2. android.permission.READ_SMS
+3. android.permission.WRITE_SMS
+4. android.permission.READ_CONTACTS
+5. android.permission.WRITE_CONTACTS
+6. android.permission.READ_PHONE_STATE
+7. android.permission.RECEIVE_SMS
+8. android.permission.RECEIVE_MMS
+9. android.permission.SEND_SMS
+10. android.permission.INTERNET
+11. android.permission.CALL_PHONE
+12. android.permission.VIBRATE
+13. android.permission.RECEIVE_MMS
+14. android.permission.WAKE_LOCK
+15. android.permission.ACCESS_NETWORK_STATE
+16. android.permission.CHANGE_NETWORK_STATE
+17. android.permission.DISABLE_KEYGUARD
+18. android.permission.WRITE_EXTERNAL_STORAGE
+19. android.permission.GET_ACCOUNTS
+20. android.permission.MODIFY_AUDIO_SETTINGS
+21. android.permission.READ_LOGS
+22. android.permission.BACKUP
+23. android.permission.ACCESS_WIFI_STATE
+24. android.permission.CHANGE_WIFI_STATE
+25. android.permission.SYSTEM_ALERT_WINDOW
+26. android.permission.BLUETOOTH
+27. com.android.vending.BILLING
+28. com.android.launcher.permission.READ_SETTINGS
+29. com.android.launcher.permission.WRITE_SETTINGS
+30. com.sonyericsson.home.permission.BROADCAST_BADGE
+31. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+32. com.htc.launcher.permission.WRITE_SETTINGS
+33. com.htc.launcher.permission.READ_SETTINGS
+34. com.htc.launcher.permission.UPDATE_SHORTCUT
+35. com.sec.android.provider.badge.permission.READ
+36. com.sec.android.provider.badge.permission.WRITE
+37. com.huawei.android.launcher.permission.CHANGE_BADGE
+38. com.huawei.android.launcher.permission.READ_SETTINGS
+39. com.huawei.android.launcher.permission.WRITE_SETTINGS
+40. com.google.android.providers.gsf.permission.READ_GSERVICES
+41. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+

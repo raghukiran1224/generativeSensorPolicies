@@ -1,0 +1,20 @@
+Vimeo.txt
+Number of Permissions: 18
+android.permission.READ_EXTERNAL_STORAGE
+htc.socialmanager.permission.USE_SOCIALSERVICE
+htc.socialmanager.permission.READ_SOCIAL_DATABASE
+htc.socialmanager.permission.WRITE_SOCIAL_DATABASE
+htc.socialmanager.permission.USE_SOCIALCOMPONENT
+htc.socialmanager.permission.USE_PLUGINSERVICE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_WIFI_STATE
+20
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+com.google.android.c2dm.permission.RECEIVE
+com.vimeo.android.videoapp.permission.C2D_MESSAGE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+android.permission.WAKE_LOCK
+android.permission.RECEIVE_BOOT_COMPLETED

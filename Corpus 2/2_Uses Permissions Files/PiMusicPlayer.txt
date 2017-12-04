@@ -1,0 +1,24 @@
+App Name: PiMusicPlayer
+Number of Permissions: 20
+Permissions List:
+1. android.permission.READ_EXTERNAL_STORAGE
+2. android.permission.WRITE_EXTERNAL_STORAGE
+3. android.permission.MODIFY_AUDIO_SETTINGS
+4. android.permission.INTERNET
+5. android.permission.READ_LOGS
+6. android.permission.ACCESS_NETWORK_STATE
+7. android.permission.WRITE_SETTINGS
+8. android.permission.CHANGE_CONFIGURATION
+9. android.permission.WAKE_LOCK
+10. com.android.vending.BILLING
+11. 18
+12. android.permission.READ_PHONE_STATE
+13. android.permission.ACCESS_WIFI_STATE
+14. android.permission.CHANGE_WIFI_STATE
+15. android.permission.ACCESS_COARSE_LOCATION
+16. com.google.android.c2dm.permission.RECEIVE
+17. com.Project100Pi.themusicplayer.permission.C2D_MESSAGE
+18. android.permission.RECEIVE_BOOT_COMPLETED
+19. me.everything.badger.permission.BADGE_COUNT_READ
+20. me.everything.badger.permission.BADGE_COUNT_WRITE
+

@@ -1,0 +1,23 @@
+iHeartRadio.txt
+Number of Permissions: 20
+android.permission.BLUETOOTH_ADMIN
+com.samsung.accessory.permission.ACCESSORY_FRAMEWORK
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+com.samsung.WATCH_APP_TYPE.Companion
+com.clearchannel.iheartradio.companion.controller.permission.C2D_MESSAGE
+com.android.vending.BILLING
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WAKE_LOCK
+android.permission.BLUETOOTH
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.RECEIVE_BOOT_COMPLETED
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_ACCOUNTS
+com.google.android.c2dm.permission.RECEIVE
+com.clearchannel.iheartradio.controller.permission.C2D_MESSAGE
+

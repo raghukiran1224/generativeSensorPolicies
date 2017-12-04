@@ -1,0 +1,7 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts

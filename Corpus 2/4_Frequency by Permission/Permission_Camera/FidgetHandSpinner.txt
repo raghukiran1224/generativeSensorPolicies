@@ -1,0 +1,6 @@
+
+spinner(631)=2.0
+spinners(646)=2.0
+simple(138)=1.0
+long(218)=1.0
+updates(300)=1.0

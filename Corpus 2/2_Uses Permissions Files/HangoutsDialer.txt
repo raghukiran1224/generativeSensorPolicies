@@ -1,0 +1,4 @@
+App Name: HangoutsDialer
+Number of Permissions: 0
+Permissions List:
+

@@ -1,0 +1,16 @@
+Version 0.5.0.2017.05.26-01.03.26 can access:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+view network connections
+full network access
+use accounts on the device

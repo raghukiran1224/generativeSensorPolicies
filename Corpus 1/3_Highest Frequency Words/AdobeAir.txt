@@ -1,0 +1,6 @@
+
+adobe(120)=2.0
+air(121)=2.0
+technology(122)=1.0
+made(123)=1.0
+developers(124)=1.0

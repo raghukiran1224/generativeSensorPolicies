@@ -1,0 +1,11 @@
+Super Mario Run.txt
+Number of Permissions: 9
+android.permission.INTERNET
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+android.permission.VIBRATE
+com.android.vending.BILLING
+22
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+com.nintendo.zara.permission.C2D_MESSAGE

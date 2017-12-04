@@ -1,0 +1,16 @@
+Venmo.txt
+Number of Permissions: 14
+com.venmo.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.INTERNET
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.SEND_SMS
+android.permission.USE_FINGERPRINT
+android.permission.SYSTEM_ALERT_WINDOW

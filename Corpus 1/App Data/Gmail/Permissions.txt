@@ -1,0 +1,41 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+read your own contact card
+Calendar
+read calendar events plus confidential information
+add or modify calendar events and send email to guests without owners' knowledge
+Contacts
+find accounts on the device
+read your contacts
+modify your contacts
+Phone
+read call log
+write call log
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+download files without notification
+read sync statistics
+read subscribed feeds
+write subscribed feeds
+view configured accounts
+Google mail
+view network connections
+create accounts and set passwords
+measure app storage space
+full network access
+control Near Field Communication
+read sync settings
+run at startup
+use accounts on the device
+control vibration
+prevent device from sleeping
+toggle sync on and off
+install shortcuts
+read Google service configuration

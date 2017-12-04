@@ -1,0 +1,10 @@
+CreditKarma.txt
+Number of Permissions: 8
+com.google.android.c2dm.permission.RECEIVE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.VIBRATE
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+com.creditkarma.mobile.permission.C2D_MESSAGE

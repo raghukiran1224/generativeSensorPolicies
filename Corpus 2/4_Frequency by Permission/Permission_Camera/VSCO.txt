@@ -1,0 +1,6 @@
+
+vsco(1770)=5.0
+presets(1766)=4.0
+mobile(100)=3.0
+follow(526)=2.0
+content(687)=2.0

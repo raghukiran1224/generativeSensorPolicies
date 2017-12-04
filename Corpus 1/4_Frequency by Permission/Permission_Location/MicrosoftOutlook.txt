@@ -1,0 +1,6 @@
+
+outlook(1914)=4.0
+android(86)=3.0
+files(167)=2.0
+email(272)=2.0
+inbox(1907)=2.0

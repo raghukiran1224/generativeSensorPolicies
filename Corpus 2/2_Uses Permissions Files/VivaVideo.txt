@@ -1,0 +1,28 @@
+App Name: VivaVideo
+Number of Permissions: 24
+Permissions List:
+1. android.permission.MODIFY_AUDIO_SETTINGS
+2. android.permission.WAKE_LOCK
+3. android.permission.CAMERA
+4. android.permission.RECORD_AUDIO
+5. android.permission.VIBRATE
+6. android.permission.INTERNET
+7. android.permission.ACCESS_NETWORK_STATE
+8. android.permission.WRITE_EXTERNAL_STORAGE
+9. android.permission.READ_PHONE_STATE
+10. android.permission.BAIDU_LOCATION_SERVICE
+11. android.permission.WRITE_SETTINGS
+12. com.quvideo.xiaoying.permission.JPUSH_MESSAGE
+13. android.permission.RECEIVE_USER_PRESENT
+14. android.permission.ACCESS_COARSE_LOCATION
+15. android.permission.ACCESS_WIFI_STATE
+16. android.permission.GET_TASKS
+17. android.permission.RECEIVE_BOOT_COMPLETED
+18. android.permission.READ_EXTERNAL_STORAGE
+19. com.android.vending.BILLING
+20. com.quvideo.xiaoying.permission.MIPUSH_RECEIVE
+21. android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+22. android.permission.ACCESS_FINE_LOCATION
+23. com.google.android.c2dm.permission.RECEIVE
+24. com.quvideo.xiaoying.permission.C2D_MESSAGE
+

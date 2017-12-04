@@ -1,0 +1,28 @@
+App Name: meetme.out
+Number of Permissions: 24
+Permissions List:
+1. 18
+2. android.permission.INTERNET
+3. android.permission.VIBRATE
+4. android.permission.ACCESS_NETWORK_STATE
+5. com.google.android.c2dm.permission.RECEIVE
+6. com.myyearbook.m.permission.C2D_MESSAGE
+7. android.permission.ACCESS_WIFI_STATE
+8. android.permission.MODIFY_AUDIO_SETTINGS
+9. 22
+10. android.permission.AUTHENTICATE_ACCOUNTS
+11. android.permission.MANAGE_ACCOUNTS
+12. android.permission.USE_CREDENTIALS
+13. android.permission.READ_SYNC_STATS
+14. android.permission.READ_SYNC_SETTINGS
+15. android.permission.WRITE_SYNC_SETTINGS
+16. android.permission.WAKE_LOCK
+17. com.android.vending.BILLING
+18. android.permission.READ_EXTERNAL_STORAGE
+19. android.permission.ACCESS_COARSE_LOCATION
+20. android.permission.ACCESS_FINE_LOCATION
+21. android.permission.RECORD_AUDIO
+22. android.permission.CAMERA
+23. com.google.android.providers.gsf.permission.READ_GSERVICES
+24. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+

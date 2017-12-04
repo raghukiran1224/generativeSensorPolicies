@@ -1,0 +1,6 @@
+
+clean(500)=6.0
+phone(104)=5.0
+battery(334)=4.0
+android(77)=3.0
+easy(386)=3.0

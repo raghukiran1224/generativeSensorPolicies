@@ -1,0 +1,6 @@
+
+credit(444)=16.0
+score(445)=14.0
+report(447)=5.0
+information(19)=3.0
+number(154)=2.0

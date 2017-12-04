@@ -1,0 +1,6 @@
+
+meditation(907)=7.0
+calm(905)=4.0
+daily(912)=4.0
+sleep(937)=4.0
+advanced(189)=2.0

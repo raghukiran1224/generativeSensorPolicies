@@ -1,0 +1,6 @@
+
+lyra(1147)=4.0
+give(15)=2.0
+search(35)=2.0
+find(198)=2.0
+assistant(4)=1.0

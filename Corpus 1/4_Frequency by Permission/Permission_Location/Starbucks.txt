@@ -1,0 +1,6 @@
+
+store(320)=6.0
+starbucks(2889)=6.0
+rewards(1457)=5.0
+stores(481)=3.0
+order(510)=3.0

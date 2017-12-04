@@ -1,0 +1,30 @@
+App Name: Vingle
+Number of Permissions: 26
+Permissions List:
+1. com.google.android.c2dm.permission.RECEIVE
+2. android.permission.GET_ACCOUNTS
+3. android.permission.WAKE_LOCK
+4. android.permission.USE_CREDENTIALS
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.INTERNET
+7. android.permission.VIBRATE
+8. android.permission.WRITE_EXTERNAL_STORAGE
+9. android.permission.READ_CONTACTS
+10. com.sec.android.provider.badge.permission.READ
+11. com.sec.android.provider.badge.permission.WRITE
+12. com.htc.launcher.permission.READ_SETTINGS
+13. com.htc.launcher.permission.UPDATE_SHORTCUT
+14. com.sonyericsson.home.permission.BROADCAST_BADGE
+15. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+16. com.anddoes.launcher.permission.UPDATE_COUNT
+17. com.majeur.launcher.permission.UPDATE_BADGE
+18. com.huawei.android.launcher.permission.CHANGE_BADGE
+19. com.huawei.android.launcher.permission.READ_SETTINGS
+20. com.huawei.android.launcher.permission.WRITE_SETTINGS
+21. android.permission.READ_APP_BADGE
+22. com.oppo.launcher.permission.READ_SETTINGS
+23. com.oppo.launcher.permission.WRITE_SETTINGS
+24. me.everything.badger.permission.BADGE_COUNT_READ
+25. me.everything.badger.permission.BADGE_COUNT_WRITE
+26. com.vingle.android.permission.C2D_MESSAGE
+

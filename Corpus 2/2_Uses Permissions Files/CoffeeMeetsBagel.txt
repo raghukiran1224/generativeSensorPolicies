@@ -1,0 +1,23 @@
+App Name: CoffeeMeetsBagel
+Number of Permissions: 19
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.WRITE_EXTERNAL_STORAGE
+4. android.permission.VIBRATE
+5. com.android.vending.BILLING
+6. android.permission.ACCESS_COARSE_LOCATION
+7. android.permission.ACCESS_WIFI_STATE
+8. com.google.android.c2dm.permission.RECEIVE
+9. com.coffeemeetsbagel.permission.C2D_MESSAGE
+10. android.permission.WAKE_LOCK
+11. com.sec.android.provider.badge.permission.READ
+12. com.sec.android.provider.badge.permission.WRITE
+13. com.htc.launcher.permission.READ_SETTINGS
+14. com.htc.launcher.permission.UPDATE_SHORTCUT
+15. com.sonyericsson.home.permission.BROADCAST_BADGE
+16. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+17. com.huawei.android.launcher.permission.CHANGE_BADGE
+18. com.huawei.android.launcher.permission.READ_SETTINGS
+19. com.huawei.android.launcher.permission.WRITE_SETTINGS
+

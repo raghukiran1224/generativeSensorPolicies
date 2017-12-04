@@ -1,0 +1,28 @@
+This app has access to:
+In-app purchases
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+create accounts and set passwords
+measure app storage space
+full network access
+run at startup
+use accounts on the device
+prevent device from sleeping
+set an alarm
+install shortcuts
+Google Play license check

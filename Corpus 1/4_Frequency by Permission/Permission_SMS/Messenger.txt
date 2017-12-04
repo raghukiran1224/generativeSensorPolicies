@@ -1,0 +1,6 @@
+
+people(725)=8.0
+photos(183)=5.0
+message(449)=5.0
+conversation(1967)=4.0
+free(50)=3.0

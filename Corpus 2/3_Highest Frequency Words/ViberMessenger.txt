@@ -1,0 +1,6 @@
+
+viber(1837)=15.0
+free(26)=11.0
+messenger(1270)=11.0
+phone(104)=9.0
+message(1075)=8.0

@@ -1,0 +1,28 @@
+App Name: michaels.out
+Number of Permissions: 24
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.READ_PHONE_STATE
+4. android.permission.WRITE_EXTERNAL_STORAGE
+5. android.permission.ACCESS_COARSE_LOCATION
+6. android.permission.CALL_PHONE
+7. com.gpshopper.gpsplatform.permission.MAPS_RECEIVE
+8. android.permission.ACCESS_WIFI_STATE
+9. android.permission.CHANGE_WIFI_STATE
+10. android.permission.VIBRATE
+11. android.permission.ACCESS_FINE_LOCATION
+12. com.google.android.providers.gsf.permission.READ_GSERVICES
+13. com.michaels.michaelsstores.permission.MAPS_RECEIVE
+14. android.permission.BLUETOOTH
+15. android.permission.BLUETOOTH_ADMIN
+16. android.permission.RECEIVE_BOOT_COMPLETED
+17. com.michaels.michaelsstores.permission.BEACON_RESULT_RECEIVE
+18. android.permission.GET_ACCOUNTS
+19. android.permission.WAKE_LOCK
+20. com.michaels.michaelsstores.permission.C2D_MESSAGE
+21. com.google.android.c2dm.permission.RECEIVE
+22. android.permission.CAMERA
+23. android.hardware.camera
+24. android.hardware.camera.autofocus
+

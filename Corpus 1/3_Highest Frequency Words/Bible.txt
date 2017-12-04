@@ -1,0 +1,6 @@
+
+bible(727)=5.0
+download(81)=2.0
+reading(101)=2.0
+friends(186)=2.0
+sharing(224)=2.0

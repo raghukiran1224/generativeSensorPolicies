@@ -1,0 +1,18 @@
+Version 6.9.1 can access:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Location
+approximate location (network-based)
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+create accounts and set passwords
+full network access
+use accounts on the device
+control vibration
+prevent device from sleeping

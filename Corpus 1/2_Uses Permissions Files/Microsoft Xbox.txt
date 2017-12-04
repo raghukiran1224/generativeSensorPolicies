@@ -1,0 +1,15 @@
+Microsoft Xbox.txt
+Number of Permissions: 13
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.VIBRATE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.GET_ACCOUNTS
+com.microsoft.xboxone.smartglass.permission.C2D_MESSAGE
+android.permission.READ_PHONE_STATE
+android.permission.READ_CONTACTS
+android.permission.READ_PROFILE
+android.permission.RECEIVE_SMS

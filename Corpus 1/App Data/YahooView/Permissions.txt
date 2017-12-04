@@ -1,0 +1,8 @@
+Version 1.0.11 can access:
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+full network access
+prevent device from sleeping

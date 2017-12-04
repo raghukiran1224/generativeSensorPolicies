@@ -1,0 +1,21 @@
+App Name: zoom.out
+Number of Permissions: 17
+Permissions List:
+1. com.example.googlemaps.permission.MAPS_RECEIVE
+2. android.permission.INTERNET
+3. android.permission.GET_ACCOUNTS
+4. android.permission.WAKE_LOCK
+5. android.permission.READ_CONTACTS
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.RECORD_AUDIO
+8. android.permission.MODIFY_AUDIO_SETTINGS
+9. android.permission.READ_PHONE_STATE
+10. android.permission.ACCESS_NETWORK_STATE
+11. android.permission.ACCESS_COARSE_LOCATION
+12. android.permission.ACCESS_FINE_LOCATION
+13. com.demo.chatapp.permission.C2D_MESSAGE
+14. com.demo.chatapp.c2dm.permission.RECEIVE
+15. com.google.android.c2dm.permission.RECEIVE
+16. android.permission.VIBRATE
+17. android.permission.USE_CREDENTIALS
+

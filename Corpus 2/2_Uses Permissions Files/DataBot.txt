@@ -1,0 +1,13 @@
+App Name: DataBot
+Number of Permissions: 9
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.GET_ACCOUNTS
+4. android.permission.RECORD_AUDIO
+5. android.permission.RECEIVE_BOOT_COMPLETED
+6. android.permission.WAKE_LOCK
+7. com.android.vending.BILLING
+8. android.permission.CAMERA
+9. com.google.android.c2dm.permission.RECEIVE
+

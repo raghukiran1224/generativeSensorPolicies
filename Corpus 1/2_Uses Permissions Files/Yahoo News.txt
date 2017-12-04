@@ -1,0 +1,11 @@
+Yahoo News.txt
+Number of Permissions: 9
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.INTERNET
+android.permission.WAKE_LOCK
+18
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.READ_PHONE_STATE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.google.android.c2dm.permission.RECEIVE

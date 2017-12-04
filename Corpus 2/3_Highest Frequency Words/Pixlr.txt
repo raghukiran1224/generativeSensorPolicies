@@ -1,0 +1,6 @@
+
+pixlr(1537)=10.0
+photo(765)=6.0
+instagram(229)=4.0
+effects(1228)=4.0
+overlays(1540)=4.0

@@ -1,0 +1,27 @@
+App Name: operabrowser.out
+Number of Permissions: 23
+Permissions List:
+1. android.permission.ACCESS_FINE_LOCATION
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.ACCESS_WIFI_STATE
+4. android.permission.BLUETOOTH
+5. android.permission.CHANGE_WIFI_MULTICAST_STATE
+6. android.permission.CAMERA
+7. android.permission.INTERNET
+8. android.permission.MODIFY_AUDIO_SETTINGS
+9. android.permission.NFC
+10. android.permission.READ_PHONE_STATE
+11. android.permission.RECORD_AUDIO
+12. android.permission.SYSTEM_ALERT_WINDOW
+13. android.permission.VIBRATE
+14. android.permission.WAKE_LOCK
+15. android.permission.WRITE_EXTERNAL_STORAGE
+16. com.android.browser.permission.READ_HISTORY_BOOKMARKS
+17. com.android.launcher.permission.INSTALL_SHORTCUT
+18. com.google.android.c2dm.permission.RECEIVE
+19. com.opera.browser.permission.C2D_MESSAGE
+20. com.opera.browser.permission.CRASHHANDLER
+21. com.opera.browser.permission.GET_PREINSTALL_DATA
+22. com.opera.android.browser.permission.NEWS_ID_VIEW
+23. android.permission.RECEIVE_BOOT_COMPLETED
+

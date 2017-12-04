@@ -1,0 +1,13 @@
+Version 1.2 can access:
+In-app purchases
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+view network connections
+full network access

@@ -1,0 +1,17 @@
+Wendys.txt
+Number of Permissions: 15
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BLUETOOTH
+android.permission.BLUETOOTH_ADMIN
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+com.wendys.nutritiontool.permission.C2D_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.READ_EXTERNAL_STORAGE
+android.alarm.permission.SET_ALARM

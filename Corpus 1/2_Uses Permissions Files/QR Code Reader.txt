@@ -1,0 +1,7 @@
+QR Code Reader.txt
+Number of Permissions: 5
+android.permission.CAMERA
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET

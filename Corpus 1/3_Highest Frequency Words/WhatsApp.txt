@@ -1,0 +1,6 @@
+
+whatsapp(2577)=16.0
+messages(530)=9.0
+phone(232)=6.0
+friends(186)=5.0
+contacts(3228)=5.0

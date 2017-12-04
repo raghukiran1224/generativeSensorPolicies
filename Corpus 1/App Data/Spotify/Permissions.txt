@@ -1,0 +1,32 @@
+This app has access to:
+In-app purchases
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+receive data from Internet
+view network connections
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+allow Wi-Fi Multicast reception
+full network access
+change your audio settings
+control Near Field Communication
+use accounts on the device
+prevent device from sleeping
+install shortcuts

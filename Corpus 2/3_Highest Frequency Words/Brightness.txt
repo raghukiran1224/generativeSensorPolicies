@@ -1,0 +1,6 @@
+
+change(372)=4.0
+brightness(385)=3.0
+app(29)=2.0
+device(116)=2.0
+sms(23)=1.0

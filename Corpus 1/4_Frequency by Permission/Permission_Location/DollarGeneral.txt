@@ -1,0 +1,6 @@
+
+coupons(810)=10.0
+store(320)=8.0
+location(111)=6.0
+savings(667)=6.0
+offers(109)=5.0

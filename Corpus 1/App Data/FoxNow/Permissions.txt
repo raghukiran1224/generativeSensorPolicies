@@ -1,0 +1,33 @@
+This app has access to:
+Device & app history
+retrieve running apps
+read sensitive log data
+Identity
+find accounts on the device
+Contacts
+find accounts on the device
+Location
+approximate location (network-based)
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+read sync statistics
+receive data from Internet
+view network connections
+create accounts and set passwords
+full network access
+run at startup
+control vibration
+prevent device from sleeping
+toggle sync on and off
+install shortcuts

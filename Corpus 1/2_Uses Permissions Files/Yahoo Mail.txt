@@ -1,0 +1,26 @@
+Yahoo Mail.txt
+Number of Permissions: 24
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+com.google.android.c2dm.permission.RECEIVE
+com.yahoo.mobile.client.android.mail.permission.C2D_MESSAGE
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_COARSE_LOCATION
+22
+android.permission.READ_SYNC_SETTINGS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_CONTACTS
+com.android.vending.BILLING
+com.yahoo.mobile.client.android.permissions.YAHOO_INTER_APP
+android.permission.READ_CONTACTS
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_SYNC_STATS
+android.permission.READ_EXTERNAL_STORAGE
+22
+22
+android.permission.VIBRATE
+com.yahoo.mobile.client.android.mail.permission.RECEIVE_ADM_MESSAGE
+com.amazon.device.messaging.permission.RECEIVE

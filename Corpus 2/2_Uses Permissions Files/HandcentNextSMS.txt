@@ -1,0 +1,46 @@
+App Name: HandcentNextSMS
+Number of Permissions: 42
+Permissions List:
+1. android.permission.CAMERA
+2. android.permission.RECEIVE_BOOT_COMPLETED
+3. android.permission.CALL_PHONE
+4. android.permission.READ_CALL_LOG
+5. android.permission.READ_CONTACTS
+6. android.permission.WRITE_CONTACTS
+7. android.permission.RECEIVE_SMS
+8. android.permission.RECEIVE_MMS
+9. android.permission.SEND_SMS
+10. android.permission.VIBRATE
+11. android.permission.INTERNET
+12. android.permission.READ_SMS
+13. android.permission.WRITE_SMS
+14. android.permission.ACCESS_NETWORK_STATE
+15. android.permission.CHANGE_NETWORK_STATE
+16. android.permission.READ_PHONE_STATE
+17. android.permission.WAKE_LOCK
+18. android.permission.WRITE_SETTINGS
+19. android.permission.DISABLE_KEYGUARD
+20. android.permission.GET_TASKS
+21. android.permission.WRITE_EXTERNAL_STORAGE
+22. android.permission.SET_WALLPAPER
+23. android.permission.BROADCAST_STICKY
+24. android.permission.INSTALL_DRM
+25. android.permission.READ_LOGS
+26. android.permission.READ_SETTINGS
+27. android.permission.KILL_BACKGROUND_PROCESSES
+28. android.permission.RESTART_PACKAGES
+29. jp.co.sharp.android.permission.GET_LIMIT_STATUS
+30. com.yahoo.mobile.client.android.permissions.YAHOO_INTER_APP
+31. android.permission.RECORD_AUDIO
+32. android.permission.ACCESS_WIFI_STATE
+33. android.permission.CHANGE_WIFI_STATE
+34. com.android.vending.BILLING
+35. com.htc.launcher.permission.UPDATE_SHORTCUT
+36. com.sonyericsson.home.permission.BROADCAST_BADGE
+37. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+38. com.huawei.android.launcher.permission.CHANGE_BADGE
+39. com.huawei.android.launcher.permission.READ_SETTINGS
+40. com.huawei.android.launcher.permission.WRITE_SETTINGS
+41. android.permission.READ_EXTERNAL_STORAGE
+42. com.google.android.c2dm.permission.RECEIVE
+

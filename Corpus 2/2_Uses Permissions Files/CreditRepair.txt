@@ -1,0 +1,12 @@
+App Name: CreditRepair
+Number of Permissions: 8
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.GET_ACCOUNTS
+3. android.permission.WAKE_LOCK
+4. com.google.android.c2dm.permission.RECEIVE
+5. com.progrexion.pushnotificationtest.permission.C2D_MESSAGE
+6. android.permission.ACCESS_WIFI_STATE
+7. android.permission.ACCESS_NETWORK_STATE
+8. android.permission.WRITE_EXTERNAL_STORAGE
+

@@ -1,0 +1,24 @@
+Dropbox.txt
+Number of Permissions: 22
+com.dropbox.android.service.ACCOUNT_INFO_ALARM_TRIGGER
+com.dropbox.android.permission.C2D_MESSAGE
+com.dropbox.android.permission.RECEIVE_ADM_MESSAGE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.VIBRATE
+android.permission.GET_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MANAGE_ACCOUNTS
+android.permission.READ_SYNC_SETTINGS
+android.permission.WRITE_SYNC_SETTINGS
+com.google.android.c2dm.permission.RECEIVE
+com.amazon.device.messaging.permission.RECEIVE_ADM_MESSAGE
+android.permission.READ_CONTACTS
+com.android.vending.BILLING
+com.sonyericsson.home.permission.BROADCAST_BADGE

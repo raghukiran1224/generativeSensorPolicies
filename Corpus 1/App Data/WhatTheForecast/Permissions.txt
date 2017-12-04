@@ -1,0 +1,33 @@
+Version 1.6.0.43 can access:
+In-app purchases
+Calendar
+add or modify calendar events and send email to guests without owners' knowledge
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+receive data from Internet
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+full network access
+control Near Field Communication
+read sync settings
+control vibration
+prevent device from sleeping
+toggle sync on and off
+read Google service configuration

@@ -1,0 +1,6 @@
+
+device(116)=7.0
+utter(1595)=5.0
+voice(441)=4.0
+application(209)=3.0
+assistant(4)=2.0

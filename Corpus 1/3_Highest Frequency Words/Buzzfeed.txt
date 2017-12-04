@@ -1,0 +1,6 @@
+
+stories(838)=5.0
+news(73)=4.0
+share(141)=3.0
+trending(845)=3.0
+videos(255)=2.0

@@ -1,0 +1,17 @@
+App Name: SoundHound
+Number of Permissions: 13
+Permissions List:
+1. com.melodis.midomiMusicIdentifier.freemium.permission.C2D_MESSAGE
+2. android.permission.VIBRATE
+3. com.google.android.providers.gsf.permission.READ_GSERVICES
+4. android.permission.INTERNET
+5. android.permission.ACCESS_WIFI_STATE
+6. android.permission.ACCESS_NETWORK_STATE
+7. android.permission.MODIFY_AUDIO_SETTINGS
+8. com.google.android.c2dm.permission.RECEIVE
+9. android.permission.ACCESS_COARSE_LOCATION
+10. android.permission.ACCESS_FINE_LOCATION
+11. android.permission.RECORD_AUDIO
+12. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+13. android.permission.WAKE_LOCK
+

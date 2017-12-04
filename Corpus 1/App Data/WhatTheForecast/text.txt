@@ -1,0 +1,13 @@
+Welcome to What The Forecast?!! Finally, there is an accurate Android weather app that will explain, in real terms, how nasty it is outside. You will never again wonder if you should just go back to bed (which, of course, you should). Sometimes, it is better to just give up and try again tomorrow. 
+
+The app features:
+- Over 6657 completely obnoxious phrases describing the current weather conditions.
+- Switchable profanity settings (On, Some, Off).**
+- Highly accurate weather reports directly from Dark Sky.
+- Daily forecasts for 7 days.
+- Select from U.S. or international units.
+- Description of basic weather terms used in the app.
+
+WTForecast is still very simple, but I will be adding more detail in the next few months. Please stay tuned for updates.
+
+**Make sure you go into the app settings and set the profanity setting to "On" for the full effect. You won't be disappointed (Or, maybe you will. I don't know.)

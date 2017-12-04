@@ -1,0 +1,25 @@
+App Name: AmorflyBrowser
+Number of Permissions: 21
+Permissions List:
+1. android.permission.ACCESS_COARSE_LOCATION
+2. android.permission.ACCESS_FINE_LOCATION
+3. android.permission.ACCESS_NETWORK_STATE
+4. android.permission.ACCESS_WIFI_STATE
+5. com.android.launcher.permission.INSTALL_SHORTCUT
+6. com.android.launcher.permission.UNINSTALL_SHORTCUT
+7. com.android.launcher.permission.READ_SETTINGS
+8. android.permission.INTERNET
+9. android.permission.WAKE_LOCK
+10. android.permission.WRITE_EXTERNAL_STORAGE
+11. android.permission.VIBRATE
+12. android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+13. android.permission.WRITE_SETTINGS
+14. com.android.browser.permission.READ_HISTORY_BOOKMARKS
+15. android.permission.SYSTEM_ALERT_WINDOW
+16. android.permission.EXPAND_STATUS_BAR
+17. android.permission.CAMERA
+18. android.permission.GET_ACCOUNTS
+19. com.google.android.c2dm.permission.RECEIVE
+20. com.cmcm.armorfly.permission.C2D_MESSAGE
+21. android.permission.READ_EXTERNAL_STORAGE
+

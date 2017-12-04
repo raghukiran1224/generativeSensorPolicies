@@ -1,0 +1,45 @@
+App Name: DragonMobileAssistant
+Number of Permissions: 41
+Permissions List:
+1. android.permission.ACCESS_NETWORK_STATE
+2. android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+3. android.permission.INTERNET
+4. android.permission.RECORD_AUDIO
+5. android.permission.READ_PHONE_STATE
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.CALL_PHONE
+8. android.permission.READ_CONTACTS
+9. android.permission.READ_SMS
+10. android.permission.SEND_SMS
+11. android.permission.WRITE_SMS
+12. android.permission.READ_CALENDAR
+13. android.permission.WRITE_CALENDAR
+14. android.permission.WAKE_LOCK
+15. android.permission.GET_ACCOUNTS
+16. android.permission.RECEIVE_BOOT_COMPLETED
+17. android.permission.ACCESS_WIFI_STATE
+18. android.permission.CHANGE_WIFI_STATE
+19. android.permission.BLUETOOTH
+20. android.permission.BLUETOOTH_ADMIN
+21. android.permission.WRITE_SETTINGS
+22. android.permission.WRITE_CONTACTS
+23. android.permission.VIBRATE
+24. android.permission.ACCESS_FINE_LOCATION
+25. android.permission.ACCESS_COARSE_LOCATION
+26. android.permission.READ_PROFILE
+27. android.permission.CHANGE_NETWORK_STATE
+28. android.permission.DISABLE_KEYGUARD
+29. android.permission.MODIFY_AUDIO_SETTINGS
+30. android.permission.GET_TASKS
+31. android.permission.READ_LOGS
+32. android.permission.RECEIVE_SMS
+33. android.permission.READ_SYNC_STATS
+34. android.permission.WRITE_SYNC_SETTINGS
+35. android.permission.AUTHENTICATE_ACCOUNTS
+36. android.permission.MANAGE_ACCOUNTS
+37. com.android.alarm.permission.SET_ALARM
+38. com.nuance.local_permission
+39. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+40. com.google.android.c2dm.permission.RECEIVE
+41. com.nuance.balerion.permission.C2D_MESSAGE
+

@@ -1,0 +1,6 @@
+
+credit(689)=17.0
+score(699)=8.0
+nerdwallet(1450)=5.0
+app(44)=3.0
+financial(692)=3.0

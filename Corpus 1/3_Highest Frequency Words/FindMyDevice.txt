@@ -1,0 +1,6 @@
+
+device(87)=9.0
+find(392)=4.0
+android(86)=3.0
+locate(823)=2.0
+sound(1237)=2.0

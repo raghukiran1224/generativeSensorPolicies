@@ -1,0 +1,6 @@
+
+etsy(1750)=3.0
+world(125)=2.0
+find(392)=2.0
+explore(413)=2.0
+recommendations(431)=2.0

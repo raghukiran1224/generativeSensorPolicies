@@ -1,0 +1,6 @@
+
+upcoming(67)=4.0
+screenings(3164)=4.0
+warner(1748)=3.0
+bros(3163)=3.0
+passes(3165)=3.0

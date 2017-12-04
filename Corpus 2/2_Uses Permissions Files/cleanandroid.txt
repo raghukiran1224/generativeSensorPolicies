@@ -1,0 +1,21 @@
+App Name: cleanandroid.out
+Number of Permissions: 17
+Permissions List:
+1. android.permission.GET_PACKAGE_SIZE
+2. android.permission.CLEAR_APP_CACHE
+3. android.permission.KILL_BACKGROUND_PROCESSES
+4. com.android.launcher.permission.INSTALL_SHORTCUT
+5. android.permission.INTERNET
+6. android.permission.BIND_ACCESSIBILITY_SERVICE
+7. android.permission.SYSTEM_ALERT_WINDOW
+8. android.permission.CAMERA
+9. android.permission.RECEIVE_BOOT_COMPLETED
+10. android.permission.GET_TASKS
+11. android.permission.PACKAGE_USAGE_STATS
+12. android.permission.ACCESS_NETWORK_STATE
+13. android.permission.READ_PHONE_STATE
+14. android.permission.WAKE_LOCK
+15. android.permission.READ_EXTERNAL_STORAGE
+16. android.permission.WRITE_EXTERNAL_STORAGE
+17. android.permission.ACCESS_WIFI_STATE
+

@@ -1,0 +1,15 @@
+App Name: TrackID
+Number of Permissions: 11
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.MODIFY_AUDIO_SETTINGS
+4. android.permission.WAKE_LOCK
+5. android.permission.VIBRATE
+6. android.permission.REORDER_TASKS
+7. android.permission.RECORD_AUDIO
+8. android.permission.GET_ACCOUNTS
+9. com.sonyericsson.home.permission.BROADCAST_BADGE
+10. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+11. com.stericsson.permission.FM_RADIO_RECEIVER
+

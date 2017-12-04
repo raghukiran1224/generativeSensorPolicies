@@ -1,0 +1,6 @@
+
+stay(212)=3.0
+resources(2411)=2.0
+check(24)=1.0
+apps(128)=1.0
+anytime(184)=1.0

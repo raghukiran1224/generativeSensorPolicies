@@ -1,0 +1,25 @@
+App Name: talktype.out
+Number of Permissions: 21
+Permissions List:
+1. android.permission.ACCESS_NETWORK_STATE
+2. android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+3. android.permission.GET_ACCOUNTS
+4. android.permission.READ_CONTACTS
+5. android.permission.READ_PROFILE
+6. android.permission.READ_SYNC_SETTINGS
+7. android.permission.READ_SYNC_STATS
+8. android.permission.READ_USER_DICTIONARY
+9. android.permission.RECEIVE_BOOT_COMPLETED
+10. android.permission.USE_CREDENTIALS
+11. android.permission.VIBRATE
+12. android.permission.WRITE_EXTERNAL_STORAGE
+13. android.permission.WRITE_SYNC_SETTINGS
+14. android.permission.WRITE_USER_DICTIONARY
+15. android.permission.RECORD_AUDIO
+16. android.permission.BLUETOOTH
+17. android.permission.ACCESS_COARSE_LOCATION
+18. android.permission.ACCESS_FINE_LOCATION
+19. android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+20. android.permission.INTERACT_ACROSS_USERS_FULL
+21. android.permission.INTERNET
+

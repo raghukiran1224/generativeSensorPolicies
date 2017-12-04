@@ -1,0 +1,12 @@
+This app has access to:
+Device & app history
+retrieve running apps
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+view network connections
+send sticky broadcast
+full network access
+run at startup
+control vibration
+prevent device from sleeping

@@ -1,0 +1,6 @@
+
+restaurant(816)=4.0
+sandwich(2897)=4.0
+app(15)=3.0
+find(392)=3.0
+pay(538)=3.0

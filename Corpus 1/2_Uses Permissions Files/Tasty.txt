@@ -1,0 +1,6 @@
+Tasty.txt
+Number of Permissions: 4
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+com.android.alarm.permission.SET_ALARM
+android.permission.RECEIVE_BOOT_COMPLETED

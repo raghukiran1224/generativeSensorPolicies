@@ -1,0 +1,38 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+view network connections
+create accounts and set passwords
+change network connectivity
+connect and disconnect from Wi-Fi
+control flashlight
+full network access
+run at startup
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+toggle sync on and off
+set an alarm
+install shortcuts
+uninstall shortcuts

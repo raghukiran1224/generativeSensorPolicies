@@ -1,0 +1,6 @@
+
+photofunia(1344)=4.0
+photo(513)=3.0
+effects(1081)=3.0
+find(248)=2.0
+create(265)=2.0

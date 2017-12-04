@@ -1,0 +1,45 @@
+App Name: PulseSMS
+Number of Permissions: 41
+Permissions List:
+1. android.permission.SEND_SMS
+2. android.permission.READ_SMS
+3. android.permission.WRITE_SMS
+4. android.permission.RECEIVE_SMS
+5. android.permission.RECEIVE_MMS
+6. android.permission.READ_CONTACTS
+7. android.permission.READ_PROFILE
+8. android.permission.READ_PHONE_STATE
+9. android.provider.Telephony.SMS_RECEIVED
+10. android.permission.WAKE_LOCK
+11. android.permission.INTERNET
+12. android.permission.CHANGE_NETWORK_STATE
+13. android.permission.ACCESS_NETWORK_STATE
+14. android.permission.CAMERA
+15. android.permission.READ_EXTERNAL_STORAGE
+16. android.permission.WRITE_EXTERNAL_STORAGE
+17. android.permission.RECORD_AUDIO
+18. android.permission.RECEIVE_BOOT_COMPLETED
+19. android.permission.ACCESS_COARSE_LOCATION
+20. android.permission.ACCESS_FINE_LOCATION
+21. android.permission.SYSTEM_ALERT_WINDOW
+22. android.permission.CALL_PHONE
+23. com.android.vending.BILLING
+24. com.google.android.c2dm.permission.RECEIVE
+25. android.permission.WRITE_SETTINGS
+26. com.google.android.providers.gsf.permission.READ_GSERVICES
+27. com.sec.android.provider.badge.permission.READ
+28. com.sec.android.provider.badge.permission.WRITE
+29. com.htc.launcher.permission.READ_SETTINGS
+30. com.htc.launcher.permission.UPDATE_SHORTCUT
+31. com.sonyericsson.home.permission.BROADCAST_BADGE
+32. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+33. com.anddoes.launcher.permission.UPDATE_COUNT
+34. com.majeur.launcher.permission.UPDATE_BADGE
+35. com.huawei.android.launcher.permission.CHANGE_BADGE
+36. com.huawei.android.launcher.permission.READ_SETTINGS
+37. com.huawei.android.launcher.permission.WRITE_SETTINGS
+38. android.permission.READ_APP_BADGE
+39. com.oppo.launcher.permission.READ_SETTINGS
+40. com.oppo.launcher.permission.WRITE_SETTINGS
+41. xyz.klinker.messenger.permission.C2D_MESSAGE
+

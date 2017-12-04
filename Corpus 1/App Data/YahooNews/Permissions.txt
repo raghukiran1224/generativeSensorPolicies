@@ -1,0 +1,40 @@
+This app has access to:
+Identity
+find accounts on the device
+find accounts on the device
+add or remove accounts
+add or remove accounts
+Contacts
+find accounts on the device
+find accounts on the device
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+read sync statistics
+receive data from Internet
+view network connections
+create accounts and set passwords
+create accounts and set passwords
+full network access
+draw over other apps
+use accounts on the device
+use accounts on the device
+control vibration
+prevent device from sleeping
+toggle sync on and off
+read Google service configuration

@@ -1,0 +1,6 @@
+
+view(530)=4.0
+current(388)=3.0
+credit(444)=3.0
+android(8)=1.0
+information(19)=1.0

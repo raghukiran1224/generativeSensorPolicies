@@ -1,0 +1,6 @@
+
+firefox(2550)=9.0
+web(273)=6.0
+experience(424)=4.0
+browsing(1116)=4.0
+tabs(2566)=4.0

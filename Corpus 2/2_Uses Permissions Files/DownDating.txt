@@ -1,0 +1,41 @@
+App Name: DownDating
+Number of Permissions: 37
+Permissions List:
+1. android.permission.WAKE_LOCK
+2. com.bang.bangwithfriends.permission.C2D_MESSAGE
+3. com.google.android.c2dm.permission.RECEIVE
+4. android.permission.READ_PHONE_STATE
+5. 18
+6. android.permission.INTERNET
+7. android.permission.WRITE_EXTERNAL_STORAGE
+8. 22
+9. android.permission.ACCESS_FINE_LOCATION
+10. android.permission.READ_CONTACTS
+11. com.android.vending.BILLING
+12. android.permission.BLUETOOTH
+13. android.permission.BLUETOOTH_ADMIN
+14. android.permission.SYSTEM_ALERT_WINDOW
+15. android.permission.SYSTEM_OVERLAY_WINDOW
+16. android.permission.RECEIVE_BOOT_COMPLETED
+17. android.permission.VIBRATE
+18. android.permission.READ_LOGS
+19. android.permission.GET_TASKS
+20. android.permission.ACCESS_NETWORK_STATE
+21. android.permission.GET_ACCOUNTS
+22. com.sec.android.provider.badge.permission.READ
+23. com.sec.android.provider.badge.permission.WRITE
+24. com.htc.launcher.permission.READ_SETTINGS
+25. com.htc.launcher.permission.UPDATE_SHORTCUT
+26. com.sonyericsson.home.permission.BROADCAST_BADGE
+27. com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+28. com.anddoes.launcher.permission.UPDATE_COUNT
+29. com.majeur.launcher.permission.UPDATE_BADGE
+30. com.huawei.android.launcher.permission.CHANGE_BADGE
+31. com.huawei.android.launcher.permission.READ_SETTINGS
+32. com.huawei.android.launcher.permission.WRITE_SETTINGS
+33. android.permission.READ_APP_BADGE
+34. com.oppo.launcher.permission.READ_SETTINGS
+35. com.oppo.launcher.permission.WRITE_SETTINGS
+36. me.everything.badger.permission.BADGE_COUNT_READ
+37. me.everything.badger.permission.BADGE_COUNT_WRITE
+

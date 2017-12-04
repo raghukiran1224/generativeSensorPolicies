@@ -1,0 +1,15 @@
+Version 1.0.19 can access:
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+allow Wi-Fi Multicast reception
+full network access
+prevent device from sleeping

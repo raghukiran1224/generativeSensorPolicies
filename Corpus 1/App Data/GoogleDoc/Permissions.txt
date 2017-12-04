@@ -1,0 +1,35 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+download files without notification
+read sync statistics
+read subscribed feeds
+write subscribed feeds
+view configured accounts
+access all Google services
+access other Google services
+Google Spreadsheets
+Google Docs
+view network connections
+create accounts and set passwords
+full network access
+read sync settings
+read terms you added to the dictionary
+use accounts on the device
+control vibration
+prevent device from sleeping
+toggle sync on and off
+add words to user-defined dictionary
+install shortcuts
+read Google service configuration

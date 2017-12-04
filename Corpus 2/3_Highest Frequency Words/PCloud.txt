@@ -1,0 +1,6 @@
+
+pcloud(1368)=6.0
+videos(47)=5.0
+photos(103)=5.0
+files(104)=5.0
+cloud(240)=5.0

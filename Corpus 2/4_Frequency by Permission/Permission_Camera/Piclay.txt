@@ -1,0 +1,6 @@
+
+photo(513)=5.0
+images(555)=4.0
+mirror(1106)=4.0
+mode(87)=2.0
+features(247)=2.0

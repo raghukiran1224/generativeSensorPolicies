@@ -1,0 +1,6 @@
+
+experiences(399)=7.0
+homes(398)=5.0
+places(395)=4.0
+book(400)=4.0
+trip(401)=3.0

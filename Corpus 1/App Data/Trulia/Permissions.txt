@@ -1,0 +1,38 @@
+This app has access to:
+Identity
+find accounts on the device
+Calendar
+read calendar events plus confidential information
+add or modify calendar events and send email to guests without owners' knowledge
+Contacts
+find accounts on the device
+read your contacts
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Phone
+directly call phone numbers
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Wi-Fi connection information
+view Wi-Fi connections
+Device ID & call information
+read phone status and identity
+Other
+read sync statistics
+modify secure system settings
+receive data from Internet
+view network connections
+full network access
+read sync settings
+run at startup
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+install shortcuts
+read Google service configuration

@@ -1,0 +1,13 @@
+Calm.txt
+Number of Permissions: 11
+android.permission.WAKE_LOCK
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+com.android.vending.CHECK_LICENSE
+com.android.vending.BILLING
+com.calm.android.gcm.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+21
+21

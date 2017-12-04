@@ -1,0 +1,6 @@
+
+weather(1251)=4.0
+settings(520)=2.0
+terms(1476)=2.0
+accurate(2173)=2.0
+profanity(3243)=2.0

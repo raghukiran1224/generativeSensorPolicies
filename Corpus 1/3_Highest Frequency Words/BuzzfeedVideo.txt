@@ -1,0 +1,6 @@
+
+shows(10)=2.0
+videos(255)=2.0
+buzzfeed(837)=2.0
+latest(6)=1.0
+favorite(8)=1.0

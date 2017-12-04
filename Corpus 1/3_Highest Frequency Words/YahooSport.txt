@@ -1,0 +1,6 @@
+
+sports(892)=2.0
+yahoo(1915)=2.0
+latest(6)=1.0
+favorite(8)=1.0
+access(90)=1.0

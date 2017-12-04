@@ -1,0 +1,15 @@
+App Name: Bookari
+Number of Permissions: 11
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.ACCESS_NETWORK_STATE
+3. android.permission.READ_PHONE_STATE
+4. android.permission.VIBRATE
+5. android.permission.ACCESS_WIFI_STATE
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.WAKE_LOCK
+8. com.mantano.reader.android.lite.permission.C2D_MESSAGE
+9. com.google.android.c2dm.permission.RECEIVE
+10. com.android.vending.CHECK_LICENSE
+11. com.mantano.reader.android.lite.permission.C2D_MESSAGE
+

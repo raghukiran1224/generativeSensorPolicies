@@ -1,0 +1,6 @@
+
+free(50)=9.0
+unlimited(577)=7.0
+phone(232)=6.0
+number(545)=5.0
+text(292)=4.0

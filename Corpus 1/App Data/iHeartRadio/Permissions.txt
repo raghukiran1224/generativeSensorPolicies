@@ -1,0 +1,21 @@
+Version 1.2.0 can access:
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+Phone
+read phone status and identity
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Microphone
+record audio
+Device ID & call information
+read phone status and identity
+Other
+view network connections
+full network access
+run at startup
+prevent device from sleeping

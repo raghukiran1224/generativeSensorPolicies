@@ -1,0 +1,43 @@
+App Name: GOSMSPro
+Number of Permissions: 39
+Permissions List:
+1. com.jb.gosms.permission.provider.CHAT_INFO_ACCESS
+2. com.jb.gosms.permission.SERVICE
+3. com.android.vending.BILLING
+4. android.permission.SYSTEM_ALERT_WINDOW
+5. android.permission.RECEIVE_BOOT_COMPLETED
+6. android.permission.CALL_PHONE
+7. android.permission.READ_CONTACTS
+8. android.permission.WRITE_CONTACTS
+9. android.permission.RECEIVE_SMS
+10. android.permission.RECEIVE_MMS
+11. android.permission.SEND_SMS
+12. android.permission.VIBRATE
+13. android.permission.INTERNET
+14. android.permission.READ_SMS
+15. android.permission.WRITE_SMS
+16. android.permission.ACCESS_NETWORK_STATE
+17. android.permission.CHANGE_NETWORK_STATE
+18. android.permission.READ_PHONE_STATE
+19. android.permission.WAKE_LOCK
+20. android.permission.READ_EXTERNAL_STORAGE
+21. android.permission.INSTALL_DRM
+22. android.permission.GET_TASKS
+23. android.permission.WRITE_EXTERNAL_STORAGE
+24. android.permission.DISABLE_KEYGUARD
+25. android.permission.RESTART_PACKAGES
+26. android.permission.PERSISTENT_ACTIVITY
+27. com.android.launcher.permission.INSTALL_SHORTCUT
+28. android.permission.RECEIVE_WAP_PUSH
+29. android.permission.ACCESS_WIFI_STATE
+30. android.permission.CHANGE_WIFI_STATE
+31. android.permission.ACCESS_COARSE_LOCATION
+32. android.permission.BROADCAST_STICKY
+33. android.permission.READ_CALL_LOG
+34. android.permission.GET_ACCOUNTS
+35. android.permission.RECORD_AUDIO
+36. android.permission.MODIFY_AUDIO_SETTINGS
+37. android.permission.CAMERA
+38. com.google.android.c2dm.permission.RECEIVE
+39. com.jb.gosms.permission.C2D_MESSAGE
+

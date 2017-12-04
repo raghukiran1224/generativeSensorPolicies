@@ -1,0 +1,13 @@
+My Android app will help you to know the following:
+
+1. A list & count of applications installed on your phone.
+2. Memory available for both Phone and SD card.
+3. Info about outgoing, incoming and missed calls.
+4. How to take screenshot (picture of the current screen) on your phone.
+5. Megapixel of back and front cameras & the number of photos that can be clicked from the camera based on megapixel of your camera and remaining memory on your phone.
+6. Internet connection your device is connected to.
+7. Size & resolution of screen in pixels and inches.
+8. Screen density of your phone.
+9. RAM of the device. 
+10. Android version name & number. 
+11. Manufacturer and Model number of the device.

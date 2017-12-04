@@ -1,0 +1,24 @@
+CVS.txt
+Number of Permissions: 22
+android.permission.ACCESS_FINE_LOCATION
+android.permission.INTERNET
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.GET_TASKS
+android.permission.BLUETOOTH
+android.permission.BLUETOOTH_ADMIN
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.WAKE_LOCK
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_ACCOUNTS
+com.google.android.gms.permission.ACTIVITY_RECOGNITION
+android.permission.CHANGE_WIFI_STATE
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.FLASHLIGHT

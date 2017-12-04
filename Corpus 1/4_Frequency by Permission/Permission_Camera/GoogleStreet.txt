@@ -1,0 +1,6 @@
+
+photo(190)=7.0
+spheres(1950)=7.0
+camera(299)=5.0
+google(1101)=4.0
+share(141)=3.0

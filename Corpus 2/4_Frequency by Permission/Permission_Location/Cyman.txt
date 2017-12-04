@@ -1,0 +1,6 @@
+
+cyman(530)=2.0
+assistant(534)=2.0
+version(542)=2.0
+home(182)=1.0
+software(198)=1.0

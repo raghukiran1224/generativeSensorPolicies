@@ -1,0 +1,25 @@
+Version 4.4.9 can access:
+In-app purchases
+Device & app history
+retrieve running apps
+Location
+approximate location (network-based)
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Camera
+take pictures and videos
+Microphone
+record audio
+Wi-Fi connection information
+view Wi-Fi connections
+Other
+receive data from Internet
+view network connections
+full network access
+change your audio settings
+use accounts on the device
+prevent device from sleeping

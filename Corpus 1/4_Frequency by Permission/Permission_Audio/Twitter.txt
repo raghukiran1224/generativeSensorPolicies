@@ -1,0 +1,6 @@
+
+live(3)=3.0
+world(125)=3.0
+twitter(854)=3.0
+happen(886)=2.0
+unfold(3088)=2.0

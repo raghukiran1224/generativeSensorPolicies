@@ -1,0 +1,23 @@
+App Name: Piclay
+Number of Permissions: 19
+Permissions List:
+1. android.permission.INTERNET
+2. android.permission.GET_ACCOUNTS
+3. android.permission.WAKE_LOCK
+4. com.google.android.c2dm.permission.RECEIVE
+5. com.piclay.ui.permission.C2D_MESSAGE
+6. com.piclay.ui.permission.C2D_MESSAGE
+7. android.permission.CAMERA
+8. android.permission.SET_ORIENTATION
+9. android.permission.WRITE_EXTERNAL_STORAGE
+10. android.permission.FLASHLIGHT
+11. android.permission.INTERNET
+12. com.android.vending.BILLING
+13. android.permission.VIBRATE
+14. android.permission.ACCESS_NETWORK_STATE
+15. android.permission.BLUETOOTH_ADMIN
+16. android.permission.ACCESS_FINE_LOCATION
+17. android.permission.BLUETOOTH
+18. android.permission.READ_PHONE_STATE
+19. android.permission.RECEIVE_BOOT_COMPLETED
+

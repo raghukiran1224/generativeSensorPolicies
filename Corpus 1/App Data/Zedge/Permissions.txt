@@ -1,0 +1,25 @@
+This app has access to:
+Identity
+find accounts on the device
+add or remove accounts
+Contacts
+find accounts on the device
+read your contacts
+modify your contacts
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+Other
+receive data from Internet
+view network connections
+create accounts and set passwords
+full network access
+run at startup
+set wallpaper
+use accounts on the device
+prevent device from sleeping
+modify system settings
+install shortcuts

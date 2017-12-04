@@ -1,0 +1,29 @@
+App Name: PicsArt
+Number of Permissions: 25
+Permissions List:
+1. android.permission.READ_CONTACTS
+2. com.picsart.studio.permission.MAPS_RECEIVE
+3. com.google.android.providers.gsf.permission.READ_GSERVICES
+4. android.permission.INTERNET
+5. android.permission.ACCESS_NETWORK_STATE
+6. android.permission.WRITE_EXTERNAL_STORAGE
+7. android.permission.SET_WALLPAPER
+8. android.permission.ACCESS_FINE_LOCATION
+9. android.permission.ACCESS_WIFI_STATE
+10. android.permission.ACCESS_COARSE_LOCATION
+11. com.google.android.gms.permission.ACTIVITY_RECOGNITION
+12. android.permission.BIND_WALLPAPER
+13. android.permission.CAMERA
+14. com.android.vending.BILLING
+15. com.sec.android.iap.permission.BILLING
+16. android.permission.GET_ACCOUNTS
+17. android.permission.WAKE_LOCK
+18. com.sec.android.provider.badge.permission.READ
+19. com.sec.android.provider.badge.permission.WRITE
+20. com.sonyericsson.home.permission.BROADCAST_BADGE
+21. com.htc.launcher.permission.READ_SETTINGS
+22. com.htc.launcher.permission.UPDATE_SHORTCUT
+23. com.anddoes.launcher.permission.UPDATE_COUNT
+24. com.google.android.c2dm.permission.RECEIVE
+25. com.picsart.studio.permission.C2D_MESSAGE
+

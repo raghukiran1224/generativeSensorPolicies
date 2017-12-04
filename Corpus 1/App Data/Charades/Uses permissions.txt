@@ -1,0 +1,6 @@
+Charades.txt
+Number of Permissions: 4
+android.permission.INTERNET
+com.android.vending.BILLING
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
