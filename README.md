@@ -10,6 +10,6 @@ Distilled data contains the following directories:
 3. Uses permission files: The actual permissions requested by the app identified from Android.xml file
 4. Highest frequency words and frequency by permission: The frequency counts for each application
 
-The raw APK data is also made available for the keen user at (TODO: Add box link here).
+The raw APK data is also made available for the keen user at (Thttps://ibm.box.com/s/n3fre1ltdsb5hdievvyiq7f1urdw762q).
 
 The data was collected so that the app coverage across well known as well as "dubious" apps is achieved.
